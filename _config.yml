@@ -33,10 +33,14 @@ github_username:  jekyll
 tag_page_layout: tag_page
 tag_page_dir: tag
 
+# Pagination related (https://jekyllrb.com/docs/pagination/)
+paginate: 5
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.

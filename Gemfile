@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Tag support from https://github.com/pattex/jekyll-tagging
 gem 'jekyll-tagging'
+
+# Pagination support from https://jekyllrb.com/docs/pagination/
+gem 'jekyll-paginate'
