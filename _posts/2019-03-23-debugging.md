@@ -4,7 +4,10 @@ author:      phi161
 title:       "Debugging [bookmarks]"
 date:        2019-03-23
 categories:  [dev]
-tags:        [bookmarks, ios, debugging]
+tags:
+  - bookmarks
+  - ios
+  - debugging
 ---
 
 # Debugging

@@ -4,7 +4,10 @@ author:      phi161
 title:       "Electronics [bookmarks]"
 date:        2019-03-19
 categories:  [electronics]
-tags:        [bookmarks, arduino, electronics]
+tags:
+  - bookmarks
+  - arduino
+  - electronics
 ---
 
 * [A simple guide to electronic components](https://www.youtube.com/watch?v=6Maq5IyHSuc) (40' video)

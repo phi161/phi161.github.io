@@ -4,7 +4,10 @@ author:      phi161
 title:       "Networking [bookmarks]"
 date:        2019-03-21
 categories:  [dev]
-tags:        [bookmarks, ios, networking]
+tags:
+  - bookmarks
+  - ios
+  - networking
 ---
 
 * **2019.08** [Writing an Elegant and Extensible Network Stack in Swift](https://medium.com/device-blogs/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9). Also has 2nd part: [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3)

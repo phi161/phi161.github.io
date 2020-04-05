@@ -4,7 +4,10 @@ author:      phi161
 title:       "Development resources [bookmarks]"
 date:        2019-03-19
 categories:  [dev]
-tags:        [bookmarks, ios, recommendations]
+tags:
+  - bookmarks
+  - ios
+  - recommendations
 ---
 
 ## Books & Courses

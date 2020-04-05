@@ -4,7 +4,10 @@ author:      phi161
 title:       "Frameworks [bookmarks]"
 date:        2019-03-22
 categories:  [dev]
-tags:        [bookmarks, ios, frameworks]
+tags:
+  - bookmarks
+  - ios
+  - frameworks
 ---
 
 * **2019.08** [Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) Interesting aproach of using CocoaPods for maintaining internal and external modules
