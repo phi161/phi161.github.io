@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bookmark
 author: phi161
 title:  "Core Animation & Core Graphics"
 date:   2016-09-12 21:33:00 +0300

@@ -27,6 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phi161803398
 github_username:  phi161
 
+collections:
+  bookmarks:
+    output: true
+
 # Pagination related (https://jekyllrb.com/docs/pagination/)
 paginate: 5
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bookmark
 author: phi161
 title:  "Views"
 date:   2019-05-01 12:00:00 +0300

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Bookmarks
+visible: true
+permalink: /bookmarks/
+---
+
+<ul class="post-list">
+  {%- for bookmark in site.bookmarks -%}
+    <li>
+      <h3>
+        <a class="post-link" href="{{ bookmark.url }}">
+          {{ bookmark.title | escape }}
+        </a>
+      </h3>
+    </li>
+  {%- endfor -%}
+</ul>
