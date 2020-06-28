@@ -30,6 +30,7 @@ See also [Can You Answer This Simple Swift Question Correctly?](https://medium.c
 
 # Links
 
+* **2020.04** ⭐️[Caputre Lists](https://scotteg.github.io/capture-lists) Excellent article, with background information in the beginning and a comprehensive list of examples for different scenarios.
 * **2019.06** [You don’t (always) need `[weak self]`](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 * **2018.09** [Capturing Self with Swift 4.2](https://benscheirman.com/2018/09/capturing-self-with-swift-4-2/)
 * **2017.11** Explains `@escaping` very well: [CocoaCasts](https://cocoacasts.com/what-do-escaping-and-noescaping-mean-in-swift-3/)  

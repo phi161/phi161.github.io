@@ -91,24 +91,23 @@ var selectedPhotos: Observable<UIImage> {
 
 # Links
 
+* **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
+* **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
+* **2019.01** ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
 * **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)
-* Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
-* ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
-* [RxSwift For Dummies 🐣 Part 1](http://swiftpearls.com/RxSwift-for-dummies-1-Observables.html)
-* [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
-* [The introduction to RxSwift you've been missing](https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing)
-* ⭐️ [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) (3 parts) Goes from MVC to an Rx-based aproach, getting rid of local state
-* [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
-* [UIKonf 2017 – Day 1 –Thomas Visser – Reactive Programming From Scratch](https://youtu.be/sEQiMCiMgpc)
-* [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
-* ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
-* [Replay last request with RxSwift](https://stackoverflow.com/questions/54342546/replay-last-request-with-rxswift)
+* **2017.11** ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
+* **2017.06** [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
+* **2017.04** [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4) (_video, 52'_)
+* **2017.05** [UIKonf 2017 – Day 1 –Thomas Visser – Reactive Programming From Scratch](https://youtu.be/sEQiMCiMgpc)
+* **2017.03** [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
+* **2016.12** ⭐️ [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) (3 parts) Goes from MVC to an Rx-based aproach, getting rid of local state
+* **2016.11** [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
+* **2016.09** [The introduction to RxSwift you've been missing](https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing)
 
 
 # Functional Programming
 
 * 📺 [Point Free](https://www.pointfree.co/)
-* [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
+* **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
 * [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
-* [Why the Func](https://news.realm.io/news/daniel-steinberg-altconf-2017-why-the-func/)
 

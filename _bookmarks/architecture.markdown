@@ -8,8 +8,9 @@ categories: learning
 
 # Links
 
-* [Design Patterns implemented in Swift 3.0](https://github.com/ochococo/Design-Patterns-In-Swift)
-* [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.qoafphl7f)
+* **2020.04** [RIBs](https://github.com/uber/RIBs/wiki) is Uber’s cross-platform architecture framework. This framework is designed for large mobile applications that contain many nested states.
+* **2020.04** [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
+* **2015.11** [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.qoafphl7f) _Demystifying MVC, MVP, MVVM and VIPER_
 * [IB Free in Practice 1: Managing a Modal](https://www.raizlabs.com/dev/2017/03/ibfree-practice-1-managing-modal/)
 * [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6)
 * [Design Patterns on iOS using Swift](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
@@ -57,23 +58,25 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 
 # MVVM
 
-* [Github tag: mvvm-architecture](https://github.com/topics/mvvm-architecture?l=swift)
-* [Taming Great Complexity: MVVM, Coordinators and RxSwift](https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd)
-* [MVVM with ReactiveCocoa 3, in Swift](http://www.martinrichter.net/blog/2015/08/12/mvvm-with-reactivecocoa-3-in-swift/). Series, one post is about passing data among views.
+* **2020.04** [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
+* **2017.06** [Taming Great Complexity: MVVM, Coordinators and RxSwift](https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd)
+
+
+# VIPER
+
+* **2020.04** [Getting Started with the VIPER Architecture Pattern](https://www.raywenderlich.com/8440907-getting-started-with-the-viper-architecture-pattern)
+* **2019.11** [VIPER, RxSwift-ified](https://medium.com/@danielt1263/viper-rxswift-ified-1ec3ae8ab9a6)
 
 
 # Coordinators / Routing
 
+* **2020.04** [Coordinator pattern in iOS 13 world](https://aplus.rs/2020/coordinator-pattern-for-ios13/)
+* **2020.03** [The Navigator - Another twist to iOS navigations](https://jobandtalent.engineering/the-navigator-420b24fc57da)
+* **2020.02** [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) on GitHub
 * **2020.01** [Using Type Erasure to Build a Dependency Injecting Routing Framework in Swift](https://swiftrocks.com/using-type-erasure-to-build-a-dependency-injector-in-swift.html)
 * **2019.12** [Routing for iOS: universal navigation without rewriting the app](https://badootech.badoo.com/routing-for-ios-universal-navigation-without-rewriting-the-app-215b52a37cf2)
-* [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) on GitHub
-* [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios) covers the following:
-    1. How and when do you use child coordinators?
-    1. How do you handle moving back from a navigation controller?
-    1. How do you pass data between view controllers?
-    1. How do you use tab bar controllers with coordinators?
-    1. How do you handle segues?
-    1. How do you use protocols or closures instead?
+* **2019.06** [How to implement Coordinator pattern with RxSwift](https://benoitpasquier.com/integrate-coordinator-pattern-in-rxswift/)
+* **2019.02** [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios)
 * [Navigation Problem](http://kean.github.io/post/navigation-problem) and [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html) challenge the need for coordinators, describing other "pure" UIKit alternatives.
 * [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
 * [The Coordinator Pattern](https://www.iamsim.me/the-coordinator-pattern/)  

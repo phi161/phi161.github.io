@@ -14,10 +14,15 @@ tags:
 
 * [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
+* [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
 
 
 ## Tools & Utilities
 
+* [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+* [FLEX](https://github.com/Flipboard/FLEX) (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. When presented, FLEX shows a toolbar that lives in a window above your application. From this toolbar, you can view and modify nearly every piece of state in your running application.
+* [Timelane](http://timelane.tools/): visually profile your asynchronous code (Combine & RxSwift). _Timelane is a free app that bundles a custom Xcode Instrument and the frameworks to enable your code to talk to the Timelane instrument. Once you start profiling your app with Timelane you will be able to see your asynchronous tasks plotted visually on an interactive timeline you can inspect to heart's content._
+* [markmap-lib](https://markmap.js.org/) is a combination of Markdown syntax and mindmap.
 * [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs). Similar to [Knuff](https://github.com/KnuffApp).
 * [SwiftInfo](https://github.com/rockbruno/SwiftInfo) is a simple CLI tool that extracts, tracks and analyzes metrics that are useful for Swift apps. Besides the default tracking options that are shipped with the tool, you can customize SwiftInfo to track pretty much anything that can be conveyed in a simple .swift script.
 * Google's [Style Guide](https://google.github.io/swift/) for Swift
@@ -34,7 +39,8 @@ tags:
 * [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter)
 * [iOS-factor](https://ios-factor.com/) was inspired by the famous twelve-factor app framework, a methodology to write high-quality web services. iOS-factor uses the same structure and similar principles, re-written and applied to the iOS app development processes.
 * [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) enables you to easily validate your properties with the power of Property Wrappers. 
-* [Feather: Simply beautiful open source icons](https://feathericons.com/)
+* [Feather](https://feathericons.com/): Simply beautiful open source icons
+* [The Ultimate Guide To iPhone Resolutions ](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 
 ## Tips
@@ -49,18 +55,9 @@ tags:
 * [One Weird Trick to Lose Size](https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331)
 
 
-## Lists
+## Security
 
-* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) A collection of (mostly) technical things every software developer should know.
-* [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os/)
-* [The Ultimate Guide To iPhone Resolutions ](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
-* [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)
-
-
-## Xcode
-
-* [Themes](https://github.com/hdoria/xcode-themes)
-* [Warnings I turn on, and why](http://boredzo.org/blog/archives/2009-11-07/warnings)
+* **2020.04** [A security review of 1,300 AppStore applications](https://seredynski.com/articles/a-security-review-of-1300-appstore-applications.html)
 
 
 ## Notable Apps
@@ -73,21 +70,28 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 ## Team
 
+* **2020.01** [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions)
 * **2019.09** [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 * **2019.08** [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
 * **2019.08** [How to maintain the focus as a software developer?](https://medium.com/flawless-app-stories/how-to-maintain-the-focus-as-a-software-developer-d43aeb25693c)
 * **2019.06** [#52 XP – Speaking the same language](https://swifting.io/blog/2019/06/18/52-xp-speaking-the-same-language/) eXtreme Programming
 * **2019.05** [Why Projects Need Code Names](https://artsy.github.io/blog/2019/05/10/why-projects-need-codenames/)
 * **2019.04** [I’m quitting engineering: An exit interview](https://www.cottondroid.com/blog/exit-interview.html)
+* **2018.11** [iOS Good Practices (futurice)](https://github.com/futurice/ios-good-practices)
+* **2018.02** [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+* **2017.05** [iOS Retrospectives](http://artsy.github.io/blog/2017/05/27/ios-retrospectives/)
 * **2017.03** [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1#.gdk4w4ttn)
-* [iOS Good Practices (futurice)](https://github.com/futurice/ios-good-practices)
-* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-* [iOS Retrospectives](http://artsy.github.io/blog/2017/05/27/ios-retrospectives/)
-* [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
-* [One on One](https://a16z.com/2012/08/30/one-on-one/)
+* **2017.03** [How I Became a Better Programmer](https://jlongster.com/How-I-Became-Better-Programmer)
+* **2016.02** [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
+* **2014.08** [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* **2012.08** [One on One](https://a16z.com/2012/08/30/one-on-one/)
+
+
+## Interviewing
+
+* **2020.02** [iOS Developer interview questions 2020](https://ordinarycoding.com/articles/ios-developer-interview-questions-2020/)
+* **2019.07** [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
 * [The Vital Guide to Swift Interviewing](https://www.toptal.com/swift#hiring-guide)
-* [How to fail as a new engineering manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
-* [What Most Remote Companies Don’t Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945)
 
 
 ## Podcasts
@@ -95,3 +99,10 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.](https://github.com/vermont42/Podcasts)
+
+
+## Lists
+
+* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) A collection of (mostly) technical things every software developer should know.
+* [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os/)
+* [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)

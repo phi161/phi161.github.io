@@ -12,11 +12,14 @@ tags:
 
 ## Building
 
+* **2020.02** [Xcode: Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html)
 * **2020.01** [Reducing iOS Build Times by using Interface Targets](https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets.html)
 * **2019.01** [Optimizing Swift build times](https://github.com/fastred/Optimizing-Swift-Build-Times/blob/master/README.md)
 * **2017.04** [Guide To Organizing Your iOS Debug, Development, and Release States With .xcconfig Files](https://hackernoon.com/a-cleaner-way-to-organize-your-ios-debug-development-and-release-distributions-6b5eb6a48356)
 * **2019.01** [Conditionally build app with different asset catalogs](https://stackoverflow.com/a/28645979/289501): Describes using the `EXCLUDED_SOURCE_FILE_NAMES` build setting
 * **2015.11** [Xcode: XCConfig files for managing targets configurations](http://szulctomasz.com/2015/11/14/xcode-xcconfig-files-for-maintaining-targets-configurations.html) (now [archived](http://szulctomasz.com/programming-blog/1/01/blog-archive-2017/))
+* **2009.11** [Warnings I turn on, and why](http://boredzo.org/blog/archives/2009-11-07/warnings)
+
 
 ## Continuous Integration
 
