@@ -66,6 +66,7 @@ tags:
 * [Breather](https://github.com/alexbaramilis/Building-Breather) 
 is an open-source iOS app that shows the weather, air pollution and asthma conditions around you.
 * [Spend Stack](https://www.spendstack.com/)
+* [immuni](https://www.immuni.italia.it/) is an app that helps us fight the COVID-19 epidemic. The app uses technology to alert the users who have had a risky exposure—even if they are asymptomatic.
 
 
 ## Team

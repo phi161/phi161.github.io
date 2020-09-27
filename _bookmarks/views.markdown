@@ -12,6 +12,7 @@ tags:
 
 # Links
 
+* **2020.09** Modern Collection Views: [79: “All about UICollectionView” with special guest Ben Scheirman](https://www.swiftbysundell.com/podcast/79/) Many interesting links and a [related article](https://www.swiftbysundell.com/articles/building-modern-collection-views-in-swift/) also by Sundell
 * **2019.08** ⭐️ [The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide)
 * **2019.07** [Table views in iOS with Swift: a comprehensive guide (cells, data sources and MVC architecture)](http://matteomanferdini.com/the-correct-way-to-display-lists-in-ios-and-what-many-developers-do-wrong/)
 * **2019.06** [Getting started with diffable data sources for UICollectionView](https://www.kairadiagne.com/2019/06/10/getting-started-with-diffable-data-sources-for-uicollectionview.html) and a [backport](https://github.com/ra1028/DiffableDataSources) for iOS 9+
