@@ -10,20 +10,26 @@ categories: learning
 
 * **2020.04** [RIBs](https://github.com/uber/RIBs/wiki) is Uber’s cross-platform architecture framework. This framework is designed for large mobile applications that contain many nested states.
 * **2020.04** [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
+* **2017.11** [View-state driven applications](https://www.cocoawithlove.com/blog/view-state-driven-applications.html)
+* **2017.09** [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/)
+* **2017.09** [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6)
+* **2017.08** [Design Patterns on iOS using Swift](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
+* **2017.03** [IB Free in Practice 1: Managing a Modal](https://www.raizlabs.com/dev/2017/03/ibfree-practice-1-managing-modal/)
 * **2015.11** [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.qoafphl7f) _Demystifying MVC, MVP, MVVM and VIPER_
-* [IB Free in Practice 1: Managing a Modal](https://www.raizlabs.com/dev/2017/03/ibfree-practice-1-managing-modal/)
-* [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6)
-* [Design Patterns on iOS using Swift](https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22)
-* 📚 [Highly maintainable app architecture](http://aplus.rs/2017/highly-maintainable-app-architecture/)
-* 📚 [View-state driven applications](https://www.cocoawithlove.com/blog/view-state-driven-applications.html)
-* [Ending the debate: MVC vs MVP vs MVVM for iOS application development](https://www.simform.com/mvc-mvp-mvvm-ios-app-development/)
+
+
+# Sample Code
+
+* **2020.10** ⭐️ [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
+* **2020.05** [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)
 
 
 # Refactoring
 
-* [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
-* [The Recipe for Singletons Removal](https://albertodebortoli.com/2017/03/15/the-recipe-for-singletons-removal/)
-* [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
+* **2018.08** [Refactoring Massive App Delegate](https://www.vadimbulavin.com/refactoring-massive-app-delegate/) using 3 different patterns: _Command_, _Composite_ and _Mediator_
+* **2017.10** [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
+* **2017.08** [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
+* **2017.03** [The Recipe for Singletons Removal](https://albertodebortoli.com/2017/03/15/the-recipe-for-singletons-removal/)
 
 ### Lighter view controllers
 
@@ -32,16 +38,20 @@ categories: learning
 
 ### Dependency Injection
 
+* **2020.04** [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/)
 * **2019.12** [Practical Dependency Inversion in Swift](https://medium.com/flawless-app-stories/practical-dependency-inversion-in-swift-1c1142161a8)
+* **2019.07** [Better Storyboards with Xcode 11](https://useyourloaf.com/blog/better-storyboards-with-xcode-11/) explains how to use `@IBSegueAction` to support DI using Storyboards
 * **2018.11** [Dependency Injection on iOS — part 1/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-1-4-8847f302b3d9)
 * **2016.11** [SwinjectMVVMExample](https://github.com/Swinject/SwinjectMVVMExample) 
 An example to use Swinject in MVVM architecture with ReactiveCococa
 * **2015.11** [Dependency Injection Framework for Swift - Introduction to Swinject](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/). Very nice intro to DI.
 
-### Modules
+### Modular Design
 
+* **2020.07** [Modern Modular Apps With Xcode 12 and Swift Package Manager](https://medium.com/kinandcartacreated/modern-modular-apps-with-xcode-12-and-swift-package-manager-a84aedace575) (and also [Modern modular apps with Xcode 11 and Swift Package Manager](https://medium.com/kinandcartacreated/modern-modular-apps-with-xcode-11-and-swift-package-manager-6b4afa0125be))
 * **2019.12** [Modular iOS Architecture @ Just Eat](https://tech.just-eat.com/2019/12/18/modular-ios-architecture-just-eat/)
 * **2019.12** [Breaking an app up into modules](https://www.donnywals.com/breaking-an-app-up-into-modules/)
+* **2018.05** Modular iOS. [Part 1: Strangling the Monolith](https://medium.com/kinandcartacreated/modular-ios-strangling-the-monolith-4a6843a28992), [Part 2: Splitting A Workspace into Modules](https://medium.com/kinandcartacreated/modular-ios-splitting-a-workspace-into-modules-331293f1090), [Part 3: Configuration & Testing of Modules](https://medium.com/kinandcartacreated/modular-ios-part-3-configuration-testing-of-modules-2f287b19eeef), [Part 4: Sharing Configuration Between Modules](https://medium.com/kinandcartacreated/modular-ios-part-4-sharing-configuration-between-modules-b08a31490447)
 
 
 # MVC

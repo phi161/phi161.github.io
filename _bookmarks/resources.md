@@ -27,6 +27,7 @@ tags:
 * [SwiftInfo](https://github.com/rockbruno/SwiftInfo) is a simple CLI tool that extracts, tracks and analyzes metrics that are useful for Swift apps. Besides the default tracking options that are shipped with the tool, you can customize SwiftInfo to track pretty much anything that can be conveyed in a simple .swift script.
 * Google's [Style Guide](https://google.github.io/swift/) for Swift
 * [Localization in Swift like a Pro](https://medium.com/@Dschee/localization-in-swift-like-a-pro-48164203afe2) explains how to use [BartyCrouch](https://github.com/Flinesoft/BartyCrouch).
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen): a command line tool written in Swift that generates your Xcode project using your folder structure and a project spec (also check the [alternatives](https://github.com/yonaskolb/XcodeGen#alternatives) section)
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen): a tool to auto-generate Swift code for resources of your projects, to make them type-safe to use. Generate code (enums, constants, etc) for:
 	* Assets Catalogs
 	* Colors
@@ -92,6 +93,7 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 * **2020.02** [iOS Developer interview questions 2020](https://ordinarycoding.com/articles/ios-developer-interview-questions-2020/)
 * **2019.07** [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
+* **2019.03** [iOS Interview Questions 🤯😖😒](https://abhimuralidharan.medium.com/ios-interview-questions-736e27a96a74)
 * [The Vital Guide to Swift Interviewing](https://www.toptal.com/swift#hiring-guide)
 
 

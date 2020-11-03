@@ -27,6 +27,7 @@ categories: learning
 * **2015.10** [iOS functional testing with user stories, UI Test and local server](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
 * **2013.06** [iOS Development: You're Doing It Wrong](http://doing-it-wrong.mikeweller.com/2013/06/ios-app-architecture-and-tdd-1.html)
 
+
 ## UI Tests
 
 * **2020.04** [Making Xcode UI tests faster and more stable](https://blog.bitrise.io/making-xcode-ui-tests-faster-and-more-stable)
@@ -40,6 +41,12 @@ categories: learning
 * **2019.07** ⭐️ [Dependency Injection in Practice](https://www.racecondition.software/blog/dependency-injection) _This post describes the process of preparing an app for dependency injection, as well as implementing three approaches to dependency injection: constructor injection, Swinject, and The World._
 * **2015.11** [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab#.usfew8l5b)
 
+
 ## RxSwift
 
 * [https://github.com/MakeAWishFoundation/SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) taken from [this tweet](https://twitter.com/laxmorek/status/1033324251867172869)
+
+
+## Core Data
+
+* **2020.08** [Unit Testing Core Data in iOS](https://www.raywenderlich.com/11349416-unit-testing-core-data-in-ios#toc-anchor-003)

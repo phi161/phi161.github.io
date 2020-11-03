@@ -10,6 +10,9 @@ tags:
   - networking
 ---
 
+* **2020.08** [Working with an Internet Connection on iOS with Swift: Best Practices](https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/) explains how to use **Adaptable Connectivity APIs**, [Low Data mode](https://support.apple.com/en-us/HT210596)
+* **2020.06** [HTTP in Swift](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/) Building a Swift HTTP framework (18 parts)
+* **2020.03** [Going Deep With Decodable](https://martiancraft.com/blog/2020/03/going-deep-with-decodable/) explains how to solve some edge cases while parsing a network response (The data I actually care about is nested inside the response, I want some decoding to be able to fail without bringing down the whole process, and without ending up with lots of optionals, My type is decodable, but the JSON keys for some fields are different depending on which API endpoint I’m calling, I need to know about decoded data item X, when I’m decoding data item Y)
 * **2019.08** [Writing an Elegant and Extensible Network Stack in Swift](https://medium.com/device-blogs/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9). Also has 2nd part: [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3)
 * **2019.05** [Building Breather (Part 3)](https://medium.com/@alexandrosbaramilis/building-breather-part-3-managing-networking-with-rxmoya-and-handling-errors-with-rxswifts-c300648858b8) Managing networking with RxMoya and handling errors with RxSwift’s retry and materialize
 * **2017.09** [A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps)
