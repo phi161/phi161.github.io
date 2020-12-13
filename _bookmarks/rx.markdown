@@ -93,6 +93,7 @@ var selectedPhotos: Observable<UIImage> {
 
 * **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
 * **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
+* **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
 * **2019.01** ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
 * **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)
 * **2017.11** ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
@@ -108,6 +109,6 @@ var selectedPhotos: Observable<UIImage> {
 # Functional Programming
 
 * 📺 [Point Free](https://www.pointfree.co/)
-* **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
 * [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
+* **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
 

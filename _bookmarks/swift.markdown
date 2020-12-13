@@ -32,9 +32,11 @@ categories: learning
 * **2019.01** [Reference vs. Value Types in Swift](https://www.raywenderlich.com/9481-reference-vs-value-types-in-swift)
 * **2018.08** [Value-Oriented Programming](https://matt.diephouse.com/2018/08/value-oriented-programming/)
 
+
 ### Enums
 
 * **2017.04** [Swift Enums Are "sum" Types. That Makes Them Very Interesting](https://mislavjavor.github.io/2017-04-19/Swift-enums-are-sum-types.-That-makes-them-very-interesting/)
+
 
 ### Structs
 
@@ -50,11 +52,11 @@ categories: learning
 * **2015.12** [Dealing with Optionals in ViewControllers](http://inaka.net/blog/2015/12/18/dealing-with-optionals-in-view-controllers/)
 
 
-
 ## Collections
 
 * **2019.09** [Picking the right data structure in Swift](https://www.swiftbysundell.com/articles/picking-the-right-data-structure-in-swift/) (also refers to [a nice article](https://www.swiftbysundell.com/basics/time-complexity/) about Time Complexity / Big O notation etc)
 * **2017.01** [Optimizing Swift Collections](http://www.thedotpost.com/2017/01/karoly-lorentey-optimizing-swift-collections) 20' video + repo
+* [Almost Everything You Wanted To Know About Sequence and Collection](https://academy.realm.io/posts/try-swift-soroush-khanlou-sequence-collection/)
 
 
 ## Result Type
@@ -64,6 +66,7 @@ categories: learning
 
 ## Type Erasure
 
+* **2020.05** [Understanding type erasure in Swift](https://www.donnywals.com/understanding-type-erasure-in-swift/)
 * **2019.11** [OkCupid Presents: How To Use Type Erasure For Better Model Abstractions](https://tech.okcupid.com/using-type-erasure/)
 * **2019.03** [Different flavors of type erasure in Swift](https://www.swiftbysundell.com/articles/different-flavors-of-type-erasure-in-swift/)
 

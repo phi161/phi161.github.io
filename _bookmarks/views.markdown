@@ -12,6 +12,7 @@ tags:
 
 # Links
 
+* **2020.10** [Swift Heroes Digital 2020 - Implementing a Component Library - Roy Marmelstein, Spotify](https://www.youtube.com/watch?v=pQhUM0sds-E)
 * **2020.09** Modern Collection Views: [79: “All about UICollectionView” with special guest Ben Scheirman](https://www.swiftbysundell.com/podcast/79/) Many interesting links and a [related article](https://www.swiftbysundell.com/articles/building-modern-collection-views-in-swift/) also by Sundell
 * **2019.08** ⭐️ [The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide)
 * **2019.07** [Table views in iOS with Swift: a comprehensive guide (cells, data sources and MVC architecture)](http://matteomanferdini.com/the-correct-way-to-display-lists-in-ios-and-what-many-developers-do-wrong/)
@@ -26,5 +27,4 @@ tags:
 
 # Libraries
 
-* [appstore-card-transition](https://github.com/appssemble/appstore-card-transition) 
-Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS (iOS 11)
+* [appstore-card-transition](https://github.com/appssemble/appstore-card-transition) Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS (iOS 11)

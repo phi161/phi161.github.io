@@ -6,11 +6,6 @@ date:   2016-09-12 21:33:00 +0300
 categories: learning
 ---
 
-# Summary
-
-- Core Animation
-- Core Graphics
-
 # Links
 
 ## RxSwift
@@ -20,4 +15,4 @@ categories: learning
 
 ## Core Animation
 
-* [Details matter - harnessing the power of Core Animation](http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation/)
+* **2015.12** [Details matter - harnessing the power of Core Animation](http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation/)

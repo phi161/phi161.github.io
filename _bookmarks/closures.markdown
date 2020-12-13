@@ -31,10 +31,11 @@ See also [Can You Answer This Simple Swift Question Correctly?](https://medium.c
 # Links
 
 * **2020.04** ⭐️[Caputre Lists](https://scotteg.github.io/capture-lists) Excellent article, with background information in the beginning and a comprehensive list of examples for different scenarios.
+* **2019.10** [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 * **2019.06** [You don’t (always) need `[weak self]`](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 * **2018.09** [Capturing Self with Swift 4.2](https://benscheirman.com/2018/09/capturing-self-with-swift-4-2/)
-* **2017.11** Explains `@escaping` very well: [CocoaCasts](https://cocoacasts.com/what-do-escaping-and-noescaping-mean-in-swift-3/)  
-(summary: `@noescape` is the default in swift3 [for performance and for safely using `self`], `@noescaping` means that the closure can run after the func returns)
+* **2018.01** [Memory 3 - Fixing Memory Leaks in Closures with Capture List (iOS, Xcode 9, Swift 4)](https://www.youtube.com/watch?v=GIy-qnGLpHU)
+* **2017.11** Explains `@escaping` very well: [CocoaCasts](https://cocoacasts.com/what-do-escaping-and-noescaping-mean-in-swift-3/) (summary: `@noescape` is the default in swift3 [for performance and for safely using `self`], `@noescaping` means that the closure can run after the func returns)
 * **2017.09** [Why Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines)
 * **2017.05** [Why Do We Need to Annotate Escaping Closures in Swift?](https://www.andrewcbancroft.com/2017/05/11/why-do-we-need-to-annotate-escaping-closures-in-swift/)
 * **2017.04** [Introduction to Closures in Swift 4](https://medium.com/ios-os-x-development/introduction-to-closures-in-swift-3-1d46dfaf8a20#.d8wyvl8cr)

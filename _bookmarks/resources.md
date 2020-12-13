@@ -12,13 +12,17 @@ tags:
 
 ## Books & Courses
 
+* [Destroy All Software](https://www.destroyallsoftware.com/screencasts) has very good reviews on HN
 * [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
 * [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
+* [iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift](https://www.oreilly.com/library/view/ios-and-macostm/9780133085501/)
 
 
 ## Tools & Utilities
 
+* [Refactoring.Guru](https://refactoring.guru/) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+* [Dev Fonts](https://devfonts.gafi.dev/) Different fonts and themes
 * [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 * [FLEX](https://github.com/Flipboard/FLEX) (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. When presented, FLEX shows a toolbar that lives in a window above your application. From this toolbar, you can view and modify nearly every piece of state in your running application.
 * [Timelane](http://timelane.tools/): visually profile your asynchronous code (Combine & RxSwift). _Timelane is a free app that bundles a custom Xcode Instrument and the frameworks to enable your code to talk to the Timelane instrument. Once you start profiling your app with Timelane you will be able to see your asynchronous tasks plotted visually on an interactive timeline you can inspect to heart's content._
@@ -72,6 +76,7 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 ## Team
 
+* **2020.12** [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 * **2020.01** [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions)
 * **2019.09** [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 * **2019.08** [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
@@ -95,6 +100,10 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * **2019.07** [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
 * **2019.03** [iOS Interview Questions 🤯😖😒](https://abhimuralidharan.medium.com/ios-interview-questions-736e27a96a74)
 * [The Vital Guide to Swift Interviewing](https://www.toptal.com/swift#hiring-guide)
+* [A list of questions which may be interesting to a tech job applicant](https://github.com/viraptor/reverse-interview/blob/master/README.md)
+* [Awesome Interview Questions - Swift](https://github.com/MaximAbramchuck/awesome-interview-questions#swift)
+* [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
+* [Best resources for Advanced iOS Developer (Swift)](https://medium.com/flawless-app-stories/best-resources-for-advanced-ios-developer-swift-ade30374593d)
 
 
 ## Podcasts

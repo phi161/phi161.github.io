@@ -10,8 +10,7 @@ tags:
   - frameworks
 ---
 
-* **2019.08** [Modular Architecture in iOS](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99) Interesting aproach of using CocoaPods for maintaining internal and external modules
-* **2019.05** [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
+* **2019.10** [Libraries, frameworks, swift packages… What’s the difference?](https://medium.com/@zippicoder/libraries-frameworks-swift-packages-whats-the-difference-764f371444cd)
 * **2019.04** [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5)
 * **2018.12** [Xcode file variants without targets](https://medium.com/@londeix/xcode-file-variants-without-targets-9724cbabe821)
 * **2018.11** [Dividing and conquering your Xcode projects with targets](http://iosbrain.com/blog/2018/11/10/dividing-and-conquering-your-xcode-projects-with-targets/)

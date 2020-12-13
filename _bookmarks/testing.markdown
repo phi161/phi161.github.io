@@ -6,6 +6,11 @@ date:   2019-09-01 09:00:00 +0300
 categories: learning
 ---
 
+## Links
+
+* **2020.07** [https://tyrrrz.me/blog/unit-testing-is-overrated](https://tyrrrz.me/blog/unit-testing-is-overrated) (from [this](https://news.ycombinator.com/item?id=23778878) HN thread)
+
+
 ## Unit Tests
 
 * **2020.03** [Testing private methods and variables in Swift](https://www.avanderlee.com/swift/testing-private-methods-variables/)

@@ -11,6 +11,9 @@ categories: learning
 * [Contrast checker](https://webaim.org/resources/contrastchecker/) (more tools on the same site)
 * ⭐️ [SemanticUI](https://github.com/aaronbrethorst/SemanticUI) makes it easy to visualize all of iOS 13's semantic and adaptable colors, preferred fonts for text styles, and built-in icons.
 * [GOV.UK Design System](https://design-system.service.gov.uk/)
+* [Design Principles](https://principles.design/) An open source collection of Design Principles and methods.
+* [Laws of UX](https://lawsofux.com/)
+
 
 # Articles
 
@@ -25,5 +28,3 @@ categories: learning
 * **2018.11** ⭐️ [The iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 * **2017.06** [Little UI Details](https://twitter.com/i/moments/880688233641848832) A collections of little tips from @steveschoger to improve your visual design skills with the little details that make a big difference
 * **2016.08** [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256)
-* [Design Principles](https://principles.design/) An open source collection of Design Principles and methods.
-* [Laws of UX](https://lawsofux.com/)
