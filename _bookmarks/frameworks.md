@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Frameworks"
-date:        2019-03-22
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Frameworks"
+categories: [dev]
 tags:
   - bookmarks
   - ios

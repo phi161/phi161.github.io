@@ -1,8 +1,7 @@
 ---
 layout: bookmark
 author: phi161
-title:  "UX"
-date:   2016-09-12 21:33:00 +0300
+title: "UX"
 categories: learning
 ---
 

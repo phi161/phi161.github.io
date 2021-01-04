@@ -6,7 +6,8 @@ permalink: /bookmarks/
 ---
 
 <ul class="post-list">
-  {%- for bookmark in site.bookmarks -%}
+  {% assign sortedBookmarks = site.bookmarks | sort: 'title' %}
+  {% for bookmark in sortedBookmarks %}
     <li>
       <h3>
         <a class="post-link" href="{{ bookmark.url }}">

@@ -1,8 +1,7 @@
 ---
 layout: bookmark
 author: phi161
-title:  "Accessibility"
-date:   2021-01-01 9:00:00 +0000
+title: "Accessibility"
 categories: learning
 ---
 

@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Objective-C"
-date:        2019-03-20
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Objective-C"
+categories: [dev]
 tags:
   - bookmarks
   - ios

@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Electronics"
-date:        2019-03-19
-categories:  [electronics]
+layout: bookmark
+author: phi161
+title: "Electronics"
+categories: [electronics]
 tags:
   - bookmarks
   - arduino

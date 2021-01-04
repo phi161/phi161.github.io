@@ -1,9 +1,8 @@
 ---
-layout: 		bookmark
-author: 		phi161
-title:  		"Views"
-date:        2019-03-24
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Views"
+categories: [dev]
 tags:
   - bookmarks
   - ios

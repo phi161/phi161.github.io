@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Debugging"
-date:        2019-03-23
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Debugging"
+categories: [dev]
 tags:
   - bookmarks
   - ios

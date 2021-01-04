@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Networking"
-date:        2019-03-21
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Networking"
+categories: [dev]
 tags:
   - bookmarks
   - ios

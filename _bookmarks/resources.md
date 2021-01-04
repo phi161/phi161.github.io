@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Development resources"
-date:        2019-03-19
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Development resources"
+categories: [dev]
 tags:
   - bookmarks
   - ios

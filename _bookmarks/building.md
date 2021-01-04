@@ -1,9 +1,8 @@
 ---
-layout:      bookmark
-author:      phi161
-title:       "Building & Continuous Integration"
-date:        2019-03-24
-categories:  [dev]
+layout: bookmark
+author: phi161
+title: "Building & Continuous Integration"
+categories: [dev]
 tags:
   - bookmarks
   - ios
