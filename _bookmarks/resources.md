@@ -21,6 +21,7 @@ tags:
 
 ## Tools & Utilities
 
+* [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 * [Refactoring.Guru](https://refactoring.guru/) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 * [Dev Fonts](https://devfonts.gafi.dev/) Different fonts and themes
 * [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
