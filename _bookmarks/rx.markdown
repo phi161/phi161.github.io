@@ -5,6 +5,35 @@ title: "Rx"
 categories: learning
 ---
 
+# Links
+
+* **2020.02** [RxSwift, Observables, and Core Data](https://medium.com/better-programming/rxswift-observable-and-core-data-55ab87fc02ea) Uses an `NSFetchedResultsController` to create an observable. There's a [similar article](https://medium.com/better-programming/combine-publishers-and-core-data-424b68fe9473) using Combine
+* **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
+* **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
+* **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
+* **2019.01** ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
+* **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)
+* **2017.11** ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
+* **2017.06** [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
+* **2017.04** [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4) (_video, 52'_)
+* **2017.05** [UIKonf 2017 – Day 1 –Thomas Visser – Reactive Programming From Scratch](https://youtu.be/sEQiMCiMgpc)
+* **2017.03** [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
+* **2016.12** ⭐️ [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) (3 parts) Goes from MVC to an Rx-based aproach, getting rid of local state
+* **2016.11** [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
+* **2016.09** [The introduction to RxSwift you've been missing](https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing)
+
+
+
+# Functional Programming
+
+* 📺 [Point Free](https://www.pointfree.co/)
+* [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
+* **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
+
+
+
+# Notes
+
 ## ReactorKit
 
 * When binding an action, it is possible to manipulate the source stream (that's usually RxCocoa), like [this example](https://github.com/ReactorKit/ReactorKit/blob/master/Examples/GitHubSearch/GitHubSearch/GitHubSearchViewController.swift#L40).
@@ -86,28 +115,3 @@ var selectedPhotos: Observable<UIImage> {
 * You might use a **publish subject** when you’re modeling time-sensitive data, such as in an online bidding app. It wouldn’t make sense to alert the user who joined at 10:01 am that at 9:59 am there was only 1 minute left in the auction.
 * **Behavior subjects** are useful when you want to pre-populate a view with the most recent data. For example, you could bind controls in a user profile screen to a behavior subject, so that the latest values can be used to pre-populate the display while the app fetches fresh data.
 * For example, on a search screen, you may want to show the most recent five search terms used. This is where **replay subjects** come in.
-
-
-# Links
-
-* **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
-* **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
-* **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
-* **2019.01** ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
-* **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)
-* **2017.11** ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
-* **2017.06** [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
-* **2017.04** [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4) (_video, 52'_)
-* **2017.05** [UIKonf 2017 – Day 1 –Thomas Visser – Reactive Programming From Scratch](https://youtu.be/sEQiMCiMgpc)
-* **2017.03** [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
-* **2016.12** ⭐️ [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) (3 parts) Goes from MVC to an Rx-based aproach, getting rid of local state
-* **2016.11** [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
-* **2016.09** [The introduction to RxSwift you've been missing](https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing)
-
-
-# Functional Programming
-
-* 📺 [Point Free](https://www.pointfree.co/)
-* [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
-* **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
-
