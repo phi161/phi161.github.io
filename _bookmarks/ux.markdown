@@ -7,6 +7,8 @@ categories: learning
 
 # Resources
 
+* [Page Flows](https://pageflows.com/) Recorded flows from established sites: _When designing common, but vital flows like onboarding, upgrading, and inviting friends, start from a solid base of knowledge by seeing how successful products do it. All without having to sign up to a whole bunch of services & clogging up your inbox._
+* 🧡 [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/mobile/ios/)
 * [Contrast checker](https://webaim.org/resources/contrastchecker/) (more tools on the same site)
 * ⭐️ [SemanticUI](https://github.com/aaronbrethorst/SemanticUI) makes it easy to visualize all of iOS 13's semantic and adaptable colors, preferred fonts for text styles, and built-in icons.
 * [GOV.UK Design System](https://design-system.service.gov.uk/)
@@ -14,9 +16,17 @@ categories: learning
 * [Laws of UX](https://lawsofux.com/)
 
 
-# Articles
+# Accessibility
 
 * **2020.05** [When to use Accessibility Labels](https://mobilea11y.com/blog/when-to-use-accessibility-labels/) (there are more posts about accessibility)
+* **2012.04** [How to Build Accessible iOS Apps](http://www.podfeet.com/blog/tutorials-5/build-accessible-ios-apps/). Transcript from a podcast episode.
+	* Some apps change behavior when VO is on (simplifying the UI for example)
+	* Notify users when a significant layout change has happened (tapping the "Buy" button on the AppStore app)
+	* Let users know if a button will start playback
+
+
+# Articles
+
 * **2020.02** [How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/)
 * **2019.11** [What a Designer Needs to Know about iOS Dark Mode When Working with a Developer](https://swiftsenpai.com/design/what-a-designer-need-to-know-about-ios-dark-mode/)
 * **2019.10** [Adopting Dark Mode on iOS and Ensuring Backward Compatibility](https://pspdfkit.com/blog/2019/adopting-dark-mode-on-ios/)

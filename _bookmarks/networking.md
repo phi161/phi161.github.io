@@ -9,6 +9,7 @@ tags:
   - networking
 ---
 
+* **2021.02** [URLSessionConfiguration Quick Guide](https://useyourloaf.com/blog/urlsessionconfiguration-quick-guide/) Interesting properties: `allowsCellularAccess`, `httpAdditionalHeaders` and `urlCache`.
 * **2020.08** [Working with an Internet Connection on iOS with Swift: Best Practices](https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/) explains how to use **Adaptable Connectivity APIs**, [Low Data mode](https://support.apple.com/en-us/HT210596)
 * **2020.06** [HTTP in Swift](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/) Building a Swift HTTP framework (18 parts)
 * **2020.03** [Going Deep With Decodable](https://martiancraft.com/blog/2020/03/going-deep-with-decodable/) explains how to solve some edge cases while parsing a network response (The data I actually care about is nested inside the response, I want some decoding to be able to fail without bringing down the whole process, and without ending up with lots of optionals, My type is decodable, but the JSON keys for some fields are different depending on which API endpoint I’m calling, I need to know about decoded data item X, when I’m decoding data item Y)

@@ -7,6 +7,7 @@ categories: learning
 
 ## Links
 
+* **2020.05** [Understanding Creational Design Patterns](https://lickability.com/blog/understanding-creational-design-patterns/)
 * **2020.04** [RIBs](https://github.com/uber/RIBs/wiki) is Uber’s cross-platform architecture framework. This framework is designed for large mobile applications that contain many nested states.
 * **2020.04** [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 * **2017.11** [View-state driven applications](https://www.cocoawithlove.com/blog/view-state-driven-applications.html)

@@ -9,13 +9,14 @@ tags:
   - recommendations
 ---
 
-## Books & Courses
+## Books, Courses and Blogs
 
 * [Destroy All Software](https://www.destroyallsoftware.com/screencasts) has very good reviews on HN
 * [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
 * [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
 * [iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift](https://www.oreilly.com/library/view/ios-and-macostm/9780133085501/)
+* [Discover the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/) _The content Tech Twitter is talking about, minus the noise. Ranked by machines, curated by humans, updated hourly._
 
 
 ## Tools & Utilities
@@ -96,6 +97,7 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 ## Interviewing
 
+* **2021.01** [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
 * **2020.02** [iOS Developer interview questions 2020](https://ordinarycoding.com/articles/ios-developer-interview-questions-2020/)
 * **2019.07** [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
 * **2019.03** [iOS Interview Questions 🤯😖😒](https://abhimuralidharan.medium.com/ios-interview-questions-736e27a96a74)
