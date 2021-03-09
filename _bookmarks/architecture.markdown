@@ -72,7 +72,11 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 
 * **2020.04** [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
 * **2019.09** [Learn RxSwift From This Production App](https://andreaslydemann.com/learn-rxswift-from-this-production-app/)
+* **2019.05** [RxSwift and Production-Level Code](https://betterprogramming.pub/rxswift-github-search-done-right-d57aa042f97f) Takes GitHub Search from the RxSwift repository and refactors with a number of interesting techniques
+* **2019.02** [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f)
 * **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
+* **2018.11** [Danny Hertz - From Sketch to Xcode: Building Functional Reactive View Models from the Ground Up](https://www.youtube.com/watch?v=9UqDk33pkKA) 30' video, taken from [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f). Comes with a [gist](https://gist.github.com/dannyhertz/9eb4247e784e0c3b2ff8ec60098630a2) and [example project](https://github.com/pablobarcos/RxSwiftReactiveViewModel).
+* **2017.09** [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar/rxswift-mvvm-66827b8b3f10) Converting ViewModel inputs to outputs, with and without Subjects
 * **2017.06** [Taming Great Complexity: MVVM, Coordinators and RxSwift](https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd)
 
 
