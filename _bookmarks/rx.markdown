@@ -7,6 +7,8 @@ categories: learning
 
 # Links
 
+* **2021.03** [How to bind button taps from custom cells to your view model](https://tapdev.co/2021/03/15/how-to-bind-button-taps-in-custom-cells-to-your-view-model/)
+* **2021.01** [RxSwift: Deep Inside FlatMap](https://betterprogramming.pub/rxswift-deep-inside-flatmap-1ca150c41b18)
 * **2020.02** [RxSwift, Observables, and Core Data](https://medium.com/better-programming/rxswift-observable-and-core-data-55ab87fc02ea) Uses an `NSFetchedResultsController` to create an observable. There's a [similar article](https://medium.com/better-programming/combine-publishers-and-core-data-424b68fe9473) using Combine
 * **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
 * **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
@@ -21,11 +23,12 @@ categories: learning
 * **2016.12** ⭐️ [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) (3 parts) Goes from MVC to an Rx-based aproach, getting rid of local state
 * **2016.11** [Thinking in RxSwift](http://adamborek.com/thinking-rxswift/)
 * **2016.09** [The introduction to RxSwift you've been missing](https://github.com/orakaro/The-introduction-to-RxSwift-you-have-been-missing)
-
+* **2016.02** [RxJava- Understanding observeOn() and subscribeOn()](http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html) Very good explanation of concurrency (also refers to backpressure) 
 
 
 # Functional Programming
 
+* 📺 [Functional Swift Youtube channel](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/videos)
 * 📺 [Point Free](https://www.pointfree.co/)
 * [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
 * **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)

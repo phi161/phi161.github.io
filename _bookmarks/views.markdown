@@ -11,6 +11,7 @@ tags:
 
 # Links
 
+* **2021.03** [UIMenu: Comprehensive guide](https://nemecek.be/blog/88/uimenu-comprehensive-guide)
 * **2020.10** [Swift Heroes Digital 2020 - Implementing a Component Library - Roy Marmelstein, Spotify](https://www.youtube.com/watch?v=pQhUM0sds-E)
 * **2020.09** Modern Collection Views: [79: “All about UICollectionView” with special guest Ben Scheirman](https://www.swiftbysundell.com/podcast/79/) Many interesting links and a [related article](https://www.swiftbysundell.com/articles/building-modern-collection-views-in-swift/) also by Sundell
 * **2019.08** ⭐️ [The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide)

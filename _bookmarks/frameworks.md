@@ -10,6 +10,7 @@ tags:
 ---
 
 * **2019.10** [Libraries, frameworks, swift packages… What’s the difference?](https://medium.com/@zippicoder/libraries-frameworks-swift-packages-whats-the-difference-764f371444cd)
+* **2019.08** [SO: Library? Static? Dynamic? Or Framework? Project inside another project](https://stackoverflow.com/q/15331056/289501) Many good answers
 * **2019.04** [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5)
 * **2018.12** [Xcode file variants without targets](https://medium.com/@londeix/xcode-file-variants-without-targets-9724cbabe821)
 * **2018.11** [Dividing and conquering your Xcode projects with targets](http://iosbrain.com/blog/2018/11/10/dividing-and-conquering-your-xcode-projects-with-targets/)

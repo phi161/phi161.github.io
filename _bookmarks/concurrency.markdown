@@ -7,6 +7,7 @@ categories: learning
 
 # Links
 
+* **2021.03** [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading) TL;DR _Run Most Code on the Main Thread_
 * **2020.08** [Dispatching async or sync? The differences explained](https://www.donnywals.com/dispatching-async-or-sync-the-differences-explained/) Nice metaphor of a restaurant waiter. [Next article](https://www.donnywals.com/understanding-how-dispatchqueue-sync-can-cause-deadlocks/) explains deadlocks nicely.
 * **2020.03** [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
 * **2020.02** [Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)

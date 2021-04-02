@@ -51,6 +51,7 @@ tags:
 
 ## Tips
 
+* **2021.03** [Getting to Know the Simulator Better](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/) Xcode 12 supports Push Notification triggering!
 * **2019.11** [A Smart Feature Flagging System for iOS](https://tech.just-eat.com/2019/11/26/a-smart-feature-flagging-system-for-ios/)
 * [Swift String Cheat Sheet](https://useyourloaf.com/blog/swift-string-cheat-sheet)
 * [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst)
