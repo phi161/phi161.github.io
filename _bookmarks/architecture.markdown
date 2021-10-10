@@ -40,10 +40,11 @@ categories: learning
 
 ### Dependency Injection
 
+* **2021.07** [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
 * **2020.04** [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/)
 * **2019.12** [Practical Dependency Inversion in Swift](https://medium.com/flawless-app-stories/practical-dependency-inversion-in-swift-1c1142161a8)
 * **2019.07** [Better Storyboards with Xcode 11](https://useyourloaf.com/blog/better-storyboards-with-xcode-11/) explains how to use `@IBSegueAction` to support DI using Storyboards
-* **2018.11** [Dependency Injection on iOS — part 1/4](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-1-4-8847f302b3d9)
+* **2018.11** [Dependency Injection on iOS](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-1-4-8847f302b3d9) (4 parts)
 * **2016.11** [SwinjectMVVMExample](https://github.com/Swinject/SwinjectMVVMExample) 
 An example to use Swinject in MVVM architecture with ReactiveCococa
 * **2015.11** [Dependency Injection Framework for Swift - Introduction to Swinject](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/). Very nice intro to DI.
@@ -72,11 +73,12 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 
 * **2020.04** [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
 * **2019.09** [Learn RxSwift From This Production App](https://andreaslydemann.com/learn-rxswift-from-this-production-app/)
+* **2019.08** [Simplifying RxSwift code](https://medium.com/flawless-app-stories/simplifying-rxswift-code-78071d5b780): some different approaches of creating VMs, refers to ReactorKit in the end.
 * **2019.05** [RxSwift and Production-Level Code](https://betterprogramming.pub/rxswift-github-search-done-right-d57aa042f97f) Takes GitHub Search from the RxSwift repository and refactors with a number of interesting techniques
-* **2019.02** [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f)
-* **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
+* **2019.02** [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f) - also check related videos from [Stephen Celis](https://www.youtube.com/watch?v=uTLG_LgjWGA) and [Danny Hertz](https://www.youtube.com/watch?v=9UqDk33pkKA).
+* **2019.02** ⭐️ [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710) (read the comments!)
 * **2018.11** [Danny Hertz - From Sketch to Xcode: Building Functional Reactive View Models from the Ground Up](https://www.youtube.com/watch?v=9UqDk33pkKA) 30' video, taken from [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f). Comes with a [gist](https://gist.github.com/dannyhertz/9eb4247e784e0c3b2ff8ec60098630a2) and [example project](https://github.com/pablobarcos/RxSwiftReactiveViewModel).
-* **2017.09** [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar/rxswift-mvvm-66827b8b3f10) Converting ViewModel inputs to outputs, with and without Subjects
+* **2017.09** ⭐️ [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar/rxswift-mvvm-66827b8b3f10) Converting ViewModel inputs to outputs, with and without Subjects. Refers to the problem of having cells where the view is lazy loaded, thus not ready for the view model.
 * **2017.06** [Taming Great Complexity: MVVM, Coordinators and RxSwift](https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd)
 
 
@@ -88,9 +90,10 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 
 # Coordinators / Routing
 
+* **2021.09** [RxMyCoordinator](https://github.com/danielt1263/RxMyCoordinator) by  Daniel Tartaglia
 * **2020.04** [Coordinator pattern in iOS 13 world](https://aplus.rs/2020/coordinator-pattern-for-ios13/)
 * **2020.03** [The Navigator - Another twist to iOS navigations](https://jobandtalent.engineering/the-navigator-420b24fc57da)
-* **2020.02** [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) on GitHub
+* **2020.02** [XCoordinator](https://github.com/quickbirdstudios/XCoordinator) on GitHub and [accompanying article](https://quickbirdstudios.com/blog/ios-navigation-library-based-on-the-coordinator-pattern/)
 * **2020.01** [Using Type Erasure to Build a Dependency Injecting Routing Framework in Swift](https://swiftrocks.com/using-type-erasure-to-build-a-dependency-injector-in-swift.html)
 * **2019.12** [Routing for iOS: universal navigation without rewriting the app](https://badootech.badoo.com/routing-for-ios-universal-navigation-without-rewriting-the-app-215b52a37cf2)
 * **2019.06** [How to implement Coordinator pattern with RxSwift](https://benoitpasquier.com/integrate-coordinator-pattern-in-rxswift/)

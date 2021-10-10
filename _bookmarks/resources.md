@@ -21,7 +21,21 @@ tags:
 
 ## Tools & Utilities
 
+### Dates
+
+* [Common Date Formats](https://nsscreencast.com/episodes/367-dates-and-times)
+* [Your Calendrical Fallacy Is...](http://yourcalendricalfallacyis.com/): Helping you navigate the insane complexity of calendrically correct date and time operations
+* [Why Why Why Why Your iOS App Might Act Weird around New Year's](https://app-o-mat.com/post/why-why-why-why)
+
+### Colors
+
+* [Creating Slick Color Palette APIs](https://www.fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/)
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+
+### Other
+
+* Start debugging iOS network calls like a wizard, without extra code! [Wormholy](https://github.com/pmusolino/Wormholy) makes debugging quick and reliable (from [this](https://www.reddit.com/r/iOSProgramming/comments/nyzoor/what_little_dev_helper_tools_do_you_have/) thread). Similar tool: [ResponseDetective](https://github.com/netguru/ResponseDetective)
+* ⭐️ [iOS Ref](https://iosref.com/)
 * [Refactoring.Guru](https://refactoring.guru/) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 * [Dev Fonts](https://devfonts.gafi.dev/) Different fonts and themes
 * [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
@@ -40,8 +54,6 @@ tags:
 	* Storyboards and their Scenes
 	* Localizable.strings
 * [Icon Generator](https://github.com/onmyway133/IconGenerator): An electron.js app used for generating app icons
-* [Your Calendrical Fallacy Is...](http://yourcalendricalfallacyis.com/): Helping you navigate the insane complexity of calendrically correct date and time operations
-* [Why Why Why Why Your iOS App Might Act Weird around New Year's](https://app-o-mat.com/post/why-why-why-why)
 * [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter)
 * [iOS-factor](https://ios-factor.com/) was inspired by the famous twelve-factor app framework, a methodology to write high-quality web services. iOS-factor uses the same structure and similar principles, re-written and applied to the iOS app development processes.
 * [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) enables you to easily validate your properties with the power of Property Wrappers. 

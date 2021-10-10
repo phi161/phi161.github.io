@@ -23,6 +23,7 @@ tags:
 
 ### Handling tokens / 401 errors
 
+* **2021.08** [Building a token refresh flow with async/await and Swift Concurrency](https://www.donnywals.com/building-a-token-refresh-flow-with-async-await-and-swift-concurrency/)
 * **2019.09** [Handling 401 status w/ RxSwift & URLSession](https://stackoverflow.com/a/58126527/289501)
 * **2019.12** [Lessons learned from handling JWT on mobile](https://tech.just-eat.com/2019/12/04/lessons-learned-from-handling-jwt-on-mobile/)
 * **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)

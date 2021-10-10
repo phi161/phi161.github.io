@@ -7,6 +7,8 @@ categories: learning
 
 # Links
 
+* **2021.08** [Getting Started with Swift Concurrency](https://swiftsenpai.com/swift/swift-concurrency-get-started/)
+* **2021.06** ⭐️ [Modern Concurrency in Swift: Introduction](https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/)
 * **2021.03** [How NetNewsWire Handles Threading](https://inessential.com/2021/03/20/how_netnewswire_handles_threading) TL;DR _Run Most Code on the Main Thread_
 * **2020.08** [Dispatching async or sync? The differences explained](https://www.donnywals.com/dispatching-async-or-sync-the-differences-explained/) Nice metaphor of a restaurant waiter. [Next article](https://www.donnywals.com/understanding-how-dispatchqueue-sync-can-cause-deadlocks/) explains deadlocks nicely.
 * **2020.03** [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
