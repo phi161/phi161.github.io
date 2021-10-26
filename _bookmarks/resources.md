@@ -17,6 +17,7 @@ tags:
 * [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
 * [iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift](https://www.oreilly.com/library/view/ios-and-macostm/9780133085501/)
 * [Discover the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/) _The content Tech Twitter is talking about, minus the noise. Ranked by machines, curated by humans, updated hourly._
+* [Google developer documentation style guide](https://developers.google.com/style/word-list) _includes references to terms that Google considers disrespectful or offensive_
 
 
 ## Tools & Utilities
@@ -86,12 +87,14 @@ tags:
 is an open-source iOS app that shows the weather, air pollution and asthma conditions around you.
 * [Spend Stack](https://www.spendstack.com/)
 * [immuni](https://www.immuni.italia.it/) is an app that helps us fight the COVID-19 epidemic. The app uses technology to alert the users who have had a risky exposure—even if they are asymptomatic.
+* [Undebit](https://www.nbelov.com/), a minimalistic and very fast expense tracking app
 
 
 ## Team
 
 * **2020.12** [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 * **2020.01** [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions)
+* **2021.09** [Yesterday I didn’t get anything done - Sally Shepard & Michael May](https://vimeo.com/showcase/7769418/video/479795163) (video, 30') - technical PMs, tasks with future value
 * **2019.09** [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 * **2019.08** [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
 * **2019.08** [How to maintain the focus as a software developer?](https://medium.com/flawless-app-stories/how-to-maintain-the-focus-as-a-software-developer-d43aeb25693c)
@@ -126,6 +129,12 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.](https://github.com/vermont42/Podcasts)
+
+
+## Conferences
+
+* [Swift Heroes](https://www.youtube.com/playlist?list=PLfCiO1zYKkAQ8jelBHLYqNd98dWoB7850)
+* [NSSpain](https://vimeo.com/showcase/7769418)
 
 
 ## Lists

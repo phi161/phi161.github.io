@@ -9,12 +9,14 @@ categories: learning
 
 * **2021.03** [How to bind button taps from custom cells to your view model](https://tapdev.co/2021/03/15/how-to-bind-button-taps-in-custom-cells-to-your-view-model/)
 * **2021.01** [RxSwift: Deep Inside FlatMap](https://betterprogramming.pub/rxswift-deep-inside-flatmap-1ca150c41b18)
+* **2020.09** [5 stranger things you can do with Timelane - Marin Todorov](https://vimeo.com/showcase/7769418/video/479251056)
 * **2020.02** [RxSwift, Observables, and Core Data](https://medium.com/better-programming/rxswift-observable-and-core-data-55ab87fc02ea) Uses an `NSFetchedResultsController` to create an observable. There's a [similar article](https://medium.com/better-programming/combine-publishers-and-core-data-424b68fe9473) using Combine
 * **2019.08** [Guarantee Rx memory leaks absence](https://medium.com/flawless-app-stories/guarantee-rx-memory-leaks-absence-3a90636ec49e)
 * **2019.03** Integrating RxSwift Into Your Brain and Code Base ([part 1](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d), [part 2](https://medium.com/@danielt1263/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf)) Rx-ify a traditional project
 * **2019.02** [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710)
 * **2019.01** ⭐️ [RxSwift and Retrying a Network Request Despite Having an Invalid Token](https://medium.com/@danielt1263/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29) Explains the steps to create a JWT mechanism & test it
 * **2018.09** [The easy way to refresh session token of Auth0 with RxSwift and Moya](https://datarockets.com/blog/refresh-token-moya-rxswift/)
+* **2018.01** [Immutable CoreData with RxSwift - iOS Dev Scout](https://www.youtube.com/watch?v=veJrf8jSgZ0) (video, 42')
 * **2017.11** ⭐️⭐️ [RxSwift Deep Cuts](https://academy.realm.io/posts/krzysztof-siejkowski-mobilization-2017-rxswift-deep-cuts/) Goes deep into memory management, schedulers and the internals of `Observable`s (_video, 40'_)
 * **2017.06** [Top mistakes in RxSwift you want to avoid](http://adamborek.com/top-7-rxswift-mistakes/)
 * **2017.04** [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4) (_video, 52'_)
@@ -28,6 +30,7 @@ categories: learning
 
 # Functional Programming
 
+* [Introduction to Rx](http://introtorx.com/)
 * 📺 [Functional Swift Youtube channel](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/videos)
 * 📺 [Point Free](https://www.pointfree.co/)
 * [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
@@ -41,6 +44,7 @@ categories: learning
 
 * When binding an action, it is possible to manipulate the source stream (that's usually RxCocoa), like [this example](https://github.com/ReactorKit/ReactorKit/blob/master/Examples/GitHubSearch/GitHubSearch/GitHubSearchViewController.swift#L40).
 * Actions can have a [payload](https://github.com/ReactorKit/ReactorKit/blob/master/Examples/GitHubSearch/GitHubSearch/GitHubSearchViewReactor.swift#L15).
+
 
 ## Operators
 
