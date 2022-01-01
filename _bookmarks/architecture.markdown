@@ -7,6 +7,7 @@ categories: learning
 
 ## Links
 
+* **2021.10** [iOS Architecture at Lyft](https://scottberrevoets.com/2021/10/14/ios-architecture-at-lyft/) High level overview of their architecture - there's also a [podcast](https://podcasts.apple.com/us/podcast/mobile-architecture-pt-1-with-scott-berrevoets/id1453587931?i=1000512549072)
 * **2020.05** [Understanding Creational Design Patterns](https://lickability.com/blog/understanding-creational-design-patterns/)
 * **2020.04** [RIBs](https://github.com/uber/RIBs/wiki) is Uber’s cross-platform architecture framework. This framework is designed for large mobile applications that contain many nested states.
 * **2020.04** [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
@@ -40,6 +41,7 @@ categories: learning
 
 ### Dependency Injection
 
+* **2021.12** [Lightweight dependency injection and unit testing using async functions](https://www.swiftbysundell.com/articles/dependency-injection-and-unit-testing-using-async-await/) What if we could actually make our code fully testable in a way that doesn’t require us to introduce any new protocols, mocking types, or complicated abstractions? Let’s explore how we could make use of Swift’s new `async/await` capabilities to make that happen.
 * **2021.07** [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
 * **2020.04** [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/)
 * **2019.12** [Practical Dependency Inversion in Swift](https://medium.com/flawless-app-stories/practical-dependency-inversion-in-swift-1c1142161a8)
@@ -78,6 +80,7 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 * **2019.02** [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f) - also check related videos from [Stephen Celis](https://www.youtube.com/watch?v=uTLG_LgjWGA) and [Danny Hertz](https://www.youtube.com/watch?v=9UqDk33pkKA).
 * **2019.02** ⭐️ [Anatomy of an RxSwift View Model](https://medium.com/@chuck.krutsinger/anatomy-of-an-rxswift-view-model-cd45d35a710) (read the comments!)
 * **2018.11** [Danny Hertz - From Sketch to Xcode: Building Functional Reactive View Models from the Ground Up](https://www.youtube.com/watch?v=9UqDk33pkKA) 30' video, taken from [Modeling Your View Models as Functions](https://medium.com/grailed-engineering/modeling-your-view-models-as-functions-65b58525717f). Comes with a [gist](https://gist.github.com/dannyhertz/9eb4247e784e0c3b2ff8ec60098630a2) and [example project](https://github.com/pablobarcos/RxSwiftReactiveViewModel).
+* **2018.03** [The Binder Architecture](https://github.com/DeclarativeHub/TheBinderArchitecture/) is a declarative architecture for iOS development inspired by MVVM and VIPER. It is an attempt to take the best ideas of MVVM and VIPER and implement them without the boilerplate code that the two architectures, especially the latter, suffer from
 * **2017.09** ⭐️ [RxSwift + MVVM: how to feed ViewModels](https://medium.com/blablacar/rxswift-mvvm-66827b8b3f10) Converting ViewModel inputs to outputs, with and without Subjects. Refers to the problem of having cells where the view is lazy loaded, thus not ready for the view model.
 * **2017.06** [Taming Great Complexity: MVVM, Coordinators and RxSwift](https://blog.uptech.team/taming-great-complexity-mvvm-coordinators-and-rxswift-8daf8a76e7fd)
 
@@ -88,8 +91,14 @@ Apple's MVC is not the same with _traditional_ MVC, the main difference being th
 * **2019.11** [VIPER, RxSwift-ified](https://medium.com/@danielt1263/viper-rxswift-ified-1ec3ae8ab9a6)
 
 
+# Redux
+
+* **2021.07** [Pure Swift state management pattern](https://www.reddit.com/r/swift/comments/om4xbq/pure_swift_state_management_pattern/) (links to gist - interesting comments)
+
+
 # Coordinators / Routing
 
+* **2021.10** [Decoupling Concrete Coordinators From Your Navigation System in iOS](https://betterprogramming.pub/decoupling-concrete-coordinators-from-your-navigation-system-in-ios-27f39f8e8d8)
 * **2021.09** [RxMyCoordinator](https://github.com/danielt1263/RxMyCoordinator) by  Daniel Tartaglia
 * **2020.04** [Coordinator pattern in iOS 13 world](https://aplus.rs/2020/coordinator-pattern-for-ios13/)
 * **2020.03** [The Navigator - Another twist to iOS navigations](https://jobandtalent.engineering/the-navigator-420b24fc57da)

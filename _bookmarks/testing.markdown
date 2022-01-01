@@ -12,12 +12,15 @@ categories: learning
 
 ## Unit Tests
 
+* **2021.10** [Unit Testing Weak References / Retain Cycles in Swift](https://swiftrocks.com/unit-testing-weak-references--deallocation-in-swift)
+* **2021.09** [Two Misconceptions About Memory Leaks in Swift](https://betterprogramming.pub/two-misconceptions-about-memory-leaks-in-swift-7128f41dbe15) refers to a method of unit testing memory leaks from [Essential Developer](https://www.youtube.com/watch?v=Gg-2nZYRd2g&list=PLyjgjmI1UzlTtsImzQ4cT8bQ3_RXtkqLg&index=5)
 * **2020.03** [Testing private methods and variables in Swift](https://www.avanderlee.com/swift/testing-private-methods-variables/)
 * **2019.04** [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)
 * **2019.01** 👍 [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/)
 * **2019.01** [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks)
 * **2018.12** [Delightful Swift snapshot testing](https://github.com/pointfreeco/swift-snapshot-testing). Explained in a series of [PointFree tutorials](https://github.com/pointfreeco/swift-snapshot-testing#learn-more)
 * **2018.11** [Unit testing view controller memory leaks](https://blog.kulman.sk/unit-testing-memory-leaks/)
+* **2018.05** [Unit Testing race conditions by creating chaos](https://medium.com/livefront/unit-testing-race-conditions-by-creating-chaos-swift-512a55e09806)
 * **2018.05** [The iOS Testing Manifesto](https://blog.usejournal.com/the-ios-testing-manifesto-e1bc821cc4c3) Some good examples and getting started guidelines
 * **2018.03** [Pragmatic Testing](https://github.com/orta/pragmatic-testing), by Orta Therox (and others). Open Source eBook on iOS testing.
 * **2018.02** [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)

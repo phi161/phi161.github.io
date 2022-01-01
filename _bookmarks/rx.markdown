@@ -30,9 +30,10 @@ categories: learning
 
 # Functional Programming
 
+* 📺 [dotSwift videos](https://www.dotconferences.com/conference/dotswift)
+* [Using Combine](https://heckj.github.io/swiftui-notes/) _an intermediate to advanced book, focusing narrowly on how to use the Combine framework_
 * [Introduction to Rx](http://introtorx.com/)
 * 📺 [Functional Swift Youtube channel](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/videos)
-* 📺 [Point Free](https://www.pointfree.co/)
 * [The best FRP iOS resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6). Collection of many videos, articles etc
 * **2019.02** [An Introduction to Functional Programming in Swift](https://www.raywenderlich.com/9222-an-introduction-to-functional-programming-in-swift)
 

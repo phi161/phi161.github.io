@@ -12,6 +12,7 @@ tags:
 ## Building
 
 * **2021.02** [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
+* **2020.02** ⭐️ Xcode Build Time Optimization - [part 1](https://www.onswiftwings.com/posts/build-time-optimization-part1/) and [part 2](https://www.onswiftwings.com/posts/build-time-optimization-part2/)
 * **2020.02** [Xcode: Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html)
 * **2020.01** [Reducing iOS Build Times by using Interface Targets](https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets.html)
 * **2019.05** [Xcode Build Configuration Files](https://nshipster.com/xcconfig/)
