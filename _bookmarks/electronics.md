@@ -9,6 +9,7 @@ tags:
   - electronics
 ---
 
+* [All About Electronic Circuits for Kids](https://www.speedwaymotors.com/Info/All-About-Electronic-Circuits-for-Kids) (thanks Noah! 🙂)
 * [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) (from [this](https://news.ycombinator.com/item?id=23562181) HN thread)
 * [A simple guide to electronic components](https://www.youtube.com/watch?v=6Maq5IyHSuc) (40' video)
 * [Tronix Arduino Tutorials](http://tronixstuff.com/tutorials/)
