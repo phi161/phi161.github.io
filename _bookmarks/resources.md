@@ -65,6 +65,7 @@ tags:
 
 ## Tips
 
+* **2022.04** [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport) when an older Xcode version doesn't support the device's iOS version
 * **2021.03** [Getting to Know the Simulator Better](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/) Xcode 12 supports Push Notification triggering!
 * **2019.11** [A Smart Feature Flagging System for iOS](https://tech.just-eat.com/2019/11/26/a-smart-feature-flagging-system-for-ios/)
 * [Swift String Cheat Sheet](https://useyourloaf.com/blog/swift-string-cheat-sheet)
@@ -88,6 +89,7 @@ tags:
 is an open-source iOS app that shows the weather, air pollution and asthma conditions around you.
 * [Spend Stack](https://www.spendstack.com/)
 * [immuni](https://www.immuni.italia.it/) is an app that helps us fight the COVID-19 epidemic. The app uses technology to alert the users who have had a risky exposure—even if they are asymptomatic.
+* [isowords](https://github.com/pointfreeco/isowords) is a large, complex application built entirely in Swift. The iOS client's logic is built in the Composable Architecture and the UI is built mostly in SwiftUI with a little bit in SceneKit.
 * [Undebit](https://www.nbelov.com/), a minimalistic and very fast expense tracking app
 
 
