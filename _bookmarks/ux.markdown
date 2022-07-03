@@ -20,6 +20,7 @@ categories: learning
 
 # Accessibility
 
+* **2022.07** [VoiceOver For Frequently Updating Data](https://useyourloaf.com/blog/voiceover-for-frequently-updating-data/) iOS can automatically re-read text that is marked as `.updatesFrequently`
 * **2020.05** [When to use Accessibility Labels](https://mobilea11y.com/blog/when-to-use-accessibility-labels/) (there are more posts about accessibility)
 * **2012.04** [How to Build Accessible iOS Apps](http://www.podfeet.com/blog/tutorials-5/build-accessible-ios-apps/). Transcript from a podcast episode.
 	* Some apps change behavior when VO is on (simplifying the UI for example)

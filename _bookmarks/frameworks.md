@@ -9,6 +9,7 @@ tags:
   - frameworks
 ---
 
+* **2021.07** [Bruno Rocha: Preparing for Growth: Architecting Giant Apps for Scalability and Build Speed](https://www.youtube.com/watch?v=sZuI6z8qSmc) explains the modular architecture in Spotify (calling it a "level 4" app)
 * **2019.10** [Libraries, frameworks, swift packages… What’s the difference?](https://medium.com/@zippicoder/libraries-frameworks-swift-packages-whats-the-difference-764f371444cd)
 * **2019.08** [SO: Library? Static? Dynamic? Or Framework? Project inside another project](https://stackoverflow.com/q/15331056/289501) Many good answers
 * **2019.04** [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5)

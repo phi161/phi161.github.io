@@ -13,6 +13,8 @@ tags:
 # Debugging
 
 * **2019.08** [Advanced lldb tricks for Swift - Injecting and changing code on the fly](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html)
+* **2019.07** [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217#7a07)
+* **2019.07** [iOS — Advanced Memory Debugging to the Masses](https://betterprogramming.pub/ios-advanced-memory-debugging-to-the-masses-24d25852a91c) explains *pages*, *dirty&clean memory*, as well as how the `VMMap` command-line tool works.
 * **2019.04** [iOS Debugging Tips & Tricks](https://www.netguru.com/codestories/ios-debugging-tips-tricks) Provides examples of **watchpoints** and **symbolic** breakpoints
 * **2019.01** 👍 [Debugging iOS network traffic](https://blog.kulman.sk/debugging-ios-network-traffic/) using [mitmproxy](https://mitmproxy.org/) (for apps that do not use certificate pinning)
 * **2018.10** [Xcode and LLDB Advanced Debugging Tutorial: Part 2](https://medium.com/@fadiderias/xcode-and-lldb-advanced-debugging-tutorial-part-2-8bfeae4cdfdb) Watchpoints & Symbolic breakpoints briefly explained

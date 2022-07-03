@@ -36,6 +36,7 @@ tags:
 
 ### Other
 
+* [Swift Version](https://swiftversion.net/) - which version of Swift does each version of Xcode support
 * Start debugging iOS network calls like a wizard, without extra code! [Wormholy](https://github.com/pmusolino/Wormholy) makes debugging quick and reliable (from [this](https://www.reddit.com/r/iOSProgramming/comments/nyzoor/what_little_dev_helper_tools_do_you_have/) thread). Similar tool: [ResponseDetective](https://github.com/netguru/ResponseDetective)
 * ⭐️ [iOS Ref](https://iosref.com/)
 * [Refactoring.Guru](https://refactoring.guru/) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
@@ -134,8 +135,11 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * [The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.](https://github.com/vermont42/Podcasts)
 
 
-## Conferences
+## Conferences & Community
 
+* [Mobile Native Foundation Discussions](https://github.com/MobileNativeFoundation/discussions/discussions) - can cover anything related to projects, technologies, and processes related to shipping large-scale mobile apps.
+* [Underdog Devs](https://www.underdogdevs.org/) is a group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background
+* [iOS Conf SG](https://www.youtube.com/c/iOSConfSG/videos)
 * [Swift Heroes](https://www.youtube.com/playlist?list=PLfCiO1zYKkAQ8jelBHLYqNd98dWoB7850)
 * [NSSpain](https://vimeo.com/showcase/7769418)
 

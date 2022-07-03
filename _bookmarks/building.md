@@ -25,6 +25,7 @@ tags:
 
 ## Continuous Integration
 
+* **2022.03** [Comparing release branch strategies](https://www.jessesquires.com/blog/2022/03/27/comparing-release-branch-strategies/)
 * **2019.03** [Keep using Fastlane with Apple's 2FA changes](https://drobinin.com/posts/keep-using-fastlane-with-apples-2fa-changes/)
 * **2018.04** [Build it, Test it, Deliver it! Complete iOS Guide on Continuous Delivery with fastlane and Jenkins](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5)
 * **2017.05** [How Etsy Ships Apps](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/) 

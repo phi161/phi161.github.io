@@ -29,6 +29,9 @@ See also [Can You Answer This Simple Swift Question Correctly?](https://medium.c
 
 # Links
 
+* **2022.05** ⭐️[Closures in Swift explained](https://www.donnywals.com/closures-in-swift-explained/)
+* **2022.04** [Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale](https://verdagon.dev/blog/surprising-weak-refs)
+* **2022.03** [Weak Self -- Closure Rules of Thumb](https://christiantietze.de/posts/2022/05/weak-self-consistency/)
 * **2020.04** ⭐️[Caputre Lists](https://scotteg.github.io/capture-lists) Excellent article, with background information in the beginning and a comprehensive list of examples for different scenarios.
 * **2019.10** [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 * **2019.06** [You don’t (always) need `[weak self]`](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
