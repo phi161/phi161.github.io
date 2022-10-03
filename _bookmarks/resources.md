@@ -34,6 +34,13 @@ tags:
 * [Creating Slick Color Palette APIs](https://www.fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/)
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 
+### Diagrams/Sketching
+
+* [Markmap](https://markmap.js.org/repl) - visualize your Markdown with mindmaps
+* [h-m-m (hackers mind map)](https://github.com/nadrad/h-m-m) is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
+* [JSON Crack](https://jsoncrack.com/) Seamlessly visualize your JSON data instantly into graphs.
+
+
 ### Other
 
 * [Swift Version](https://swiftversion.net/) - which version of Swift does each version of Xcode support
@@ -76,6 +83,7 @@ tags:
 * [The 3 Rules to Great Base View Controllers](http://ioscoachfrank.com/2017/05/15/3-rules-to-base-view-controllers.html)
 * [Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev)
 * [One Weird Trick to Lose Size](https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331)
+* Printing the simulator's home directory: `po NSHomeDirectory()` (there's also `xcrun simctl get_app_container booted [app identifier]`, taken from [here](https://stackoverflow.com/questions/35963940/document-folder-ios-simulator))
 
 
 ## Security
