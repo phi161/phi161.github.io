@@ -9,6 +9,15 @@ tags:
   - views
 ---
 
+# SwiftUI
+
+## Advanced Topics
+
+* **2022.12** [Understanding SwiftUI view lifecycles](https://oleb.net/2022/swiftui-view-lifecycle/)
+* **2022.10** [Where View.task gets its main-actor isolation from](https://oleb.net/2022/swiftui-task-mainactor/)
+* **2022.05** [The SwiftUI render loop](https://rensbr.eu/blog/swiftui-render-loop/)
+* **2022.02** [SwiftUI under the Hood: Variadic Views](https://movingparts.io/variadic-views-in-swiftui) and a [followup](https://chris.eidhof.nl/post/variadic-views/) from Chris Eidhof on **2023.01**
+
 # Links
 
 * **2021.08** ⭐️ [Implementing UITableView](https://www.nbelov.com/garden/implementing-uitableview)

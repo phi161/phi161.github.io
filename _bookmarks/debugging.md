@@ -12,6 +12,9 @@ tags:
 
 # Debugging
 
+* **2023.01** [A Better Way To Test Reference Cycles in iOS](https://betterprogramming.pub/a-better-way-to-test-reference-cycles-in-ios-3ce5b690742d) create a `weak` reference to the object you want to test and make sure it is `nil` in the test's `tearDown`.
+* **2022.12** [Securely debugging your app in production](https://blog.sidetrack.app/debugging-in-production)
+* **2022.10** [Add name for debugging](https://paul-samuels.com/blog/2022/10/06/add-name-for-debugging/) A really useful trick when debugging is to subclass the thing you are interested in just to make it easier to search for inside the various debugging tools.
 * **2019.08** [Advanced lldb tricks for Swift - Injecting and changing code on the fly](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html)
 * **2019.07** [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217#7a07)
 * **2019.07** [iOS — Advanced Memory Debugging to the Masses](https://betterprogramming.pub/ios-advanced-memory-debugging-to-the-masses-24d25852a91c) explains *pages*, *dirty&clean memory*, as well as how the `VMMap` command-line tool works.
