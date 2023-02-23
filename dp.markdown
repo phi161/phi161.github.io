@@ -1,19 +1,19 @@
 ---
 layout: page
 title: DP
-visible: true
+visible: false
 permalink: /dp/
 ---
 
-# 2023.02.23 - Φως (μέρος 2ο) & Το κινηματογραφικό γύρισμα
+## 2023.02.23 - Φως (μέρος 2ο) & Το κινηματογραφικό γύρισμα
 
-## Movies
+### Movies
 
 * [Πες στη Μορφίνη Ακόμα την Ψάχνω](https://www.youtube.com/watch?v=JP_yei_58sU) (2001) - Yannis Fagras & Peter Salapatas (με mini dv κάμερα)
 * [Forget Me Not](https://www.youtube.com/watch?v=IUPvy8dSzFc) (2014) -  Yannis Fagras & Peter Salapatas (με super 35)
 * Jennifer Eight (1992) - Bruce Robinson &  Conrad L. Hall
 
-## Notes
+### Notes
 
 key light - fill light
 
@@ -35,20 +35,20 @@ ansel adams - [zone system](https://en.wikipedia.org/wiki/Zone_System)
 master vs establishment shot
 
 
-# 2023.02.02 - Φως (μέρος 1ο)
+## 2023.02.02 - Φως (μέρος 1ο)
 
-## Recording
+### Recording
 
 [vimeo](https://vimeo.com//795901699)
 
-## Movies
+### Movies
 
 * The Innocents (1961) - Jack Clayton & Freddie Francis
 * Straw Dogs (1971) - Sam Peckinpah & John Coquillon
 * Natural Born Killers (1994) - Oliver Stone & Robert Richardson
 * Days of Heaven (1978) - Terrence Malick & Nestor Almendros
 
-## Notes
+### Notes
 
 * Χαρακτηριστικό εφέ των αναμορφικών φακών είναι το ελλειπτικό σχήμα στα bokeh (αντί για κύκλο) και οι "οριζόντιες γραμμές" στα φώτα που κοιτάζουν την κάμερα.
 * Φως
@@ -57,13 +57,13 @@ master vs establishment shot
 	* Ποιότητα (μαλακό/σκληρό)
 
 
-# 2023.01.26 - Μηχανές Λήψης (συνέχεια)
+## 2023.01.26 - Μηχανές Λήψης (συνέχεια)
 
-## Recording
+### Recording
 
 [vimeo](https://vimeo.com/793389640)
 
-## Movies
+### Movies
 
 * A Snake of June (2002) - Shinya Tsukamoto: μπλε φως σε όλη την ταινία
 * Ώμος προς Ενοικίαση (2007) - Δημήτρης Εμμανουηλίδης & Βασίλης Κλωτσοτήρας
@@ -72,7 +72,7 @@ master vs establishment shot
 * Heroic Purgatory (1970) - Yoshishige Yoshida & Motokichi Hasegawa
 * E71 (Level 71) (2021) - Peter Salapatas & Μιχάλης Γκατζόγιας
 
-## Notes
+### Notes
 
 * Τεχνική "[flashing](https://en.wikipedia.org/wiki/Flashing_(cinematography))"
 * "να αποκτάς σχέση με την ιστορία, ακόμα και με την τοποθεσία"
@@ -82,13 +82,13 @@ master vs establishment shot
 * [Goodbye, Rule of Thirds? Alternative Methods to Master Composition](https://www.slrlounge.com/goodbye-rule-thirds-10-alternative-methods-master-composition/)
 
 
-# 2023.01.19 - Μηχανές Λήψης
+## 2023.01.19 - Μηχανές Λήψης
 
-## Recording
+### Recording
 
 [vimeo](https://vimeo.com/manage/videos/790954331)
 
-## Movies
+### Movies
 
 * No (2012) - Pablo Larraín & Sergio Armstrong: Χιλή, Πινοσέτ, μίξη με αρχειακό υλικό
 * Μαγνητικά Πεδία (2022) - Giorgos Gousis & Giorgos Koutsaliaris
@@ -98,7 +98,7 @@ master vs establishment shot
 * ⭐️ La Jetée (1962) - Chris Marker & Jean Chiabaut: Μόνο φωτογραφίες - βασίζεται σ'αυτό και το 12 Monkeys
 * Enter the Void (2009) - Gaspar Noé & Benoît Debie
 
-## Notes
+### Notes
 
 * Gear Acquisition Syndrome
 * Κάποιες "black magic" έχουν φιλμ super 16
@@ -106,13 +106,13 @@ master vs establishment shot
 * διαφορετικοί φακοί με διαφορετικές κάμερες, με το **ίδιο Τ** που παράγουν το **ίδιο κάδρο**, δημιουργούν **διαφορετικό βάθος πεδίου**.
 
 
-# 2023.01.12 - Φακοί
+## 2023.01.12 - Φακοί
 
-## Recording
+### Recording
 
 [vimeo](https://vimeo.com/manage/videos/789771154)
 
-## Movies
+### Movies
 
 * Chinatown (1974) - Roman Polanski: Κοντινά πλάνα, ένταση.
 * Dreams (1990) - Akira Kurosawa
@@ -123,10 +123,10 @@ master vs establishment shot
 * Lost Highway (1997) - David Lynch
 * A Man Escaped (1956) - Robert Bresson
 
-## Notes
+### Notes
 
 * Σημείο φυγής
 * ⭐️ [Η σωστή εστίαση και ο κύκλος της σύγχυσης](https://www.youtube.com/watch?v=scAUPFMIcUQ)
-* ⭐️ [Visions of Light || The Art of Cinematography || 1992](https://drive.google.com/drive/folders/1I9XWILf0ntKoEqv3qs52wqgwcdW0ciuf)
+* ⭐️ [Visions of Light](https://drive.google.com/drive/folders/1I9XWILf0ntKoEqv3qs52wqgwcdW0ciuf)
 * Εκστατική Αλήθεια
 * Φακοί: Angénieux και Cooke (soft). Zeiss (καθαροί)
