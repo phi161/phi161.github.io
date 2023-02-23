@@ -7,6 +7,7 @@ categories: learning
 
 # Resources
 
+* [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 * [UI Guideline](https://www.uiguideline.com/components)
 * [UI Components Handbook](https://www.uiguideline.com/components)
 * [Page Flows](https://pageflows.com/) Recorded flows from established sites: _When designing common, but vital flows like onboarding, upgrading, and inviting friends, start from a solid base of knowledge by seeing how successful products do it. All without having to sign up to a whole bunch of services & clogging up your inbox._
