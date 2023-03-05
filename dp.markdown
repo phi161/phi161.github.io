@@ -5,10 +5,31 @@ visible: false
 permalink: /dp/
 ---
 
-## 2023.02.23 - Φως (μέρος 2ο) & Το κινηματογραφικό γύρισμα
+## 2023.03.02 - Το μονοπλάνο
+
+### Recording
+
+N/A
 
 ### Movies
 
+* Catch me if you Can (2002) - Steven Spielberg & Janusz Kaminski (στο 22:54)
+* Touch of Evil (1958) - Orson Welles & Russell Metty
+* Soy Cuba (1964) - Mikhail Kalatozov & Sergey Urusevskiy (σκηνή κηδείας)
+* The Secret in Their Eyes (2009) - Juan José Campanella & Félix Monti (σκηνή στο στάδιο)
+* The Passenger (1975) - Michelangelo Antonioni & Luciano Tovoli
+* [The Cranes are Flying](https://www.youtube.com/watch?v=2rINnJat-5k) (1957) - Mikhail Kalatozov & Sergey Urusevskiy
+
+
+## 2023.02.23 - Φως (μέρος 2ο) & Το κινηματογραφικό γύρισμα
+
+### Recording
+
+[vimeo](https://vimeo.com/801727323)
+
+### Movies
+
+* Μια νύχτα στο θέατρο (2022) -  Sotiris Stamatis & Peter Salapatas
 * [Πες στη Μορφίνη Ακόμα την Ψάχνω](https://www.youtube.com/watch?v=JP_yei_58sU) (2001) - Yannis Fagras & Peter Salapatas (με mini dv κάμερα)
 * [Forget Me Not](https://www.youtube.com/watch?v=IUPvy8dSzFc) (2014) -  Yannis Fagras & Peter Salapatas (με super 35)
 * Jennifer Eight (1992) - Bruce Robinson &  Conrad L. Hall
@@ -39,7 +60,7 @@ master vs establishment shot
 
 ### Recording
 
-[vimeo](https://vimeo.com//795901699)
+[vimeo](https://vimeo.com/795901699)
 
 ### Movies
 
@@ -86,7 +107,7 @@ master vs establishment shot
 
 ### Recording
 
-[vimeo](https://vimeo.com/manage/videos/790954331)
+[vimeo](https://vimeo.com/790954331)
 
 ### Movies
 
@@ -110,7 +131,7 @@ master vs establishment shot
 
 ### Recording
 
-[vimeo](https://vimeo.com/manage/videos/789771154)
+[vimeo](https://vimeo.com/789771154)
 
 ### Movies
 
