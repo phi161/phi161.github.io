@@ -5,11 +5,62 @@ visible: false
 permalink: /dp/
 ---
 
+## 2023.03.23 - Κινηματογράφος και Ζωγραφική
+
+### Movies
+
+* Gerry (2002) - Gus Van Sant & Harris Savides
+
+
+## 2023.03.16 - Κινηματογραφικός Χώρος (μέρος 2ο)
+
+### Movies
+
+* Sweetie (1989) - Jane Campion & Sally Bongers
+
+### Notes
+
+The Visual Story, Second Edition: Creating the Visual Structure of Film, TV and Digital Media 2nd Edition
+
+
+## 2023.03.09 - Κινηματογραφικός Χώρος (μέρος 1ο)
+
+### Recording #7
+
+[vimeo](https://vimeo.com/807871422)
+
+### Movies
+
+* THX 1138 (1971) - George Lucas & Albert Kihn, David Myers
+
+### Notes
+
+**Εικόνα**
+* Χώρος
+* Γραμμές
+* Σχήματα
+* Τονικές Διαβαθμίσεις
+* Χρώμα
+* Κίνηση
+* Ρυθμός
+
+Αντίθεση: μεγαλύτερη ένταση (contrast)
+Ομοιγένεια: λιγότερη ένταση (άσπρο σε άσπρο)
+
+Ansel Adams
+
+Mark Rothko / Wassily Kandinsky
+
+**Χώρος**
+* Deep Space
+* Flat Space
+* Limited Space
+* Ambiguous Space
+
+[Kubrick - One Point Perspective](https://www.youtube.com/watch?v=CnSTIr6DZOo)
+
+
 ## 2023.03.02 - Το μονοπλάνο
-
-### Recording
-
-N/A
 
 ### Movies
 

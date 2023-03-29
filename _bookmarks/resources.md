@@ -145,6 +145,7 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 ## Conferences & Community
 
+* [Kodeco’s Big List of iOS Conferences for 2023](https://www.kodeco.com/38368229-ios-conferences-for-mobile-developers-in-2023)
 * [Mobile Native Foundation Discussions](https://github.com/MobileNativeFoundation/discussions/discussions) - can cover anything related to projects, technologies, and processes related to shipping large-scale mobile apps.
 * [Underdog Devs](https://www.underdogdevs.org/) is a group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background
 * [iOS Conf SG](https://www.youtube.com/c/iOSConfSG/videos)
