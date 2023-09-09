@@ -21,59 +21,10 @@ tags:
 * [Google developer documentation style guide](https://developers.google.com/style/word-list) _includes references to terms that Google considers disrespectful or offensive_
 
 
-## Tools & Utilities
-
-### Dates
-
-* [Common Date Formats](https://nsscreencast.com/episodes/367-dates-and-times)
-* [Your Calendrical Fallacy Is...](http://yourcalendricalfallacyis.com/): Helping you navigate the insane complexity of calendrically correct date and time operations
-* [Why Why Why Why Your iOS App Might Act Weird around New Year's](https://app-o-mat.com/post/why-why-why-why)
-
-### Colors
-
-* [Creating Slick Color Palette APIs](https://www.fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/)
-* [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
-
-### Diagrams/Sketching
-
-* [Markmap](https://markmap.js.org/repl) - visualize your Markdown with mindmaps
-* [h-m-m (hackers mind map)](https://github.com/nadrad/h-m-m) is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
-* [JSON Crack](https://jsoncrack.com/) Seamlessly visualize your JSON data instantly into graphs.
-
-
-### Other
-
-* [Swift Version](https://swiftversion.net/) - which version of Swift does each version of Xcode support
-* Start debugging iOS network calls like a wizard, without extra code! [Wormholy](https://github.com/pmusolino/Wormholy) makes debugging quick and reliable (from [this](https://www.reddit.com/r/iOSProgramming/comments/nyzoor/what_little_dev_helper_tools_do_you_have/) thread). Similar tool: [ResponseDetective](https://github.com/netguru/ResponseDetective)
-* ⭐️ [iOS Ref](https://iosref.com/)
-* [Refactoring.Guru](https://refactoring.guru/) makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
-* [Dev Fonts](https://devfonts.gafi.dev/) Different fonts and themes
-* [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
-* [FLEX](https://github.com/Flipboard/FLEX) (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. When presented, FLEX shows a toolbar that lives in a window above your application. From this toolbar, you can view and modify nearly every piece of state in your running application.
-* [Timelane](http://timelane.tools/): visually profile your asynchronous code (Combine & RxSwift). _Timelane is a free app that bundles a custom Xcode Instrument and the frameworks to enable your code to talk to the Timelane instrument. Once you start profiling your app with Timelane you will be able to see your asynchronous tasks plotted visually on an interactive timeline you can inspect to heart's content._
-* [markmap-lib](https://markmap.js.org/) is a combination of Markdown syntax and mindmap.
-* [NWPusher](https://github.com/noodlewerk/NWPusher) OS X and iOS application and framework to play with the Apple Push Notification service (APNs). Similar to [Knuff](https://github.com/KnuffApp).
-* [SwiftInfo](https://github.com/rockbruno/SwiftInfo) is a simple CLI tool that extracts, tracks and analyzes metrics that are useful for Swift apps. Besides the default tracking options that are shipped with the tool, you can customize SwiftInfo to track pretty much anything that can be conveyed in a simple .swift script.
-* Google's [Style Guide](https://google.github.io/swift/) for Swift
-* [Localization in Swift like a Pro](https://medium.com/@Dschee/localization-in-swift-like-a-pro-48164203afe2) explains how to use [BartyCrouch](https://github.com/Flinesoft/BartyCrouch).
-* [XcodeGen](https://github.com/yonaskolb/XcodeGen): a command line tool written in Swift that generates your Xcode project using your folder structure and a project spec (also check the [alternatives](https://github.com/yonaskolb/XcodeGen#alternatives) section)
-* [SwiftGen](https://github.com/SwiftGen/SwiftGen): a tool to auto-generate Swift code for resources of your projects, to make them type-safe to use. Generate code (enums, constants, etc) for:
-	* Assets Catalogs
-	* Colors
-	* Fonts
-	* Storyboards and their Scenes
-	* Localizable.strings
-* [Icon Generator](https://github.com/onmyway133/IconGenerator): An electron.js app used for generating app icons
-* [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter)
-* [iOS-factor](https://ios-factor.com/) was inspired by the famous twelve-factor app framework, a methodology to write high-quality web services. iOS-factor uses the same structure and similar principles, re-written and applied to the iOS app development processes.
-* [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) enables you to easily validate your properties with the power of Property Wrappers. 
-* [Feather](https://feathericons.com/): Simply beautiful open source icons
-* [The Ultimate Guide To iPhone Resolutions ](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
-
-
 ## Tips
 
 * **2022.04** [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport) when an older Xcode version doesn't support the device's iOS version
+* **2021.10** Here's [how to find the true definition](https://stackoverflow.com/a/70310210/289501) of the `task` modifier in SwiftUI - it's located deeply inside the Xcode.app folder!
 * **2021.03** [Getting to Know the Simulator Better](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/) Xcode 12 supports Push Notification triggering!
 * **2019.11** [A Smart Feature Flagging System for iOS](https://tech.just-eat.com/2019/11/26/a-smart-feature-flagging-system-for-ios/)
 * [Swift String Cheat Sheet](https://useyourloaf.com/blog/swift-string-cheat-sheet)
@@ -100,6 +51,7 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * [immuni](https://www.immuni.italia.it/) is an app that helps us fight the COVID-19 epidemic. The app uses technology to alert the users who have had a risky exposure—even if they are asymptomatic.
 * [isowords](https://github.com/pointfreeco/isowords) is a large, complex application built entirely in Swift. The iOS client's logic is built in the Composable Architecture and the UI is built mostly in SwiftUI with a little bit in SceneKit.
 * [Undebit](https://www.nbelov.com/), a minimalistic and very fast expense tracking app
+* [eRezept App](https://github.com/gematik/E-Rezept-App-iOS) The App uses Apple's Combine.framework for operation scheduling. The UI-Layer is built with The Composable Architecture ♥️ and SwiftUI ♥️
 
 
 ## Team

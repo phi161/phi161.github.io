@@ -19,3 +19,5 @@ tags:
 * [Electronic Components](https://medium.com/@assertchris/electronic-components-20bfc59004bd)
 * [Take a Video Crash Course in Beginner Electronics](https://makezine.com/2016/01/11/take-a-video-crash-course-in-beginner-electronics/)
 * [Ask HN: How to self-learn electronics?](https://news.ycombinator.com/item?id=16775744)
+* [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware) (through [Hacker News](https://news.ycombinator.com/item?id=37395096))
+* [Learn electronics by practice](https://beletronics.wordpress.com/) (through [Hacker News](https://news.ycombinator.com/item?id=36647364))
