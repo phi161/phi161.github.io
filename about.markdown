@@ -11,4 +11,4 @@ During my career I have worked as an independent developer as well as a team lea
 
 I enjoy the social aspects of programming and do my best to contribute back to the iOS community through [Stack Overflow](http://stackoverflow.com/users/289501/phi) and [Github](https://github.com/phi161). I also started the [CocoaHeads Chapter](https://www.meetup.com/CocoaHeads-Shanghai/) in Shanghai which outreached 400 members in less than two years.
 
-If you want to get in touch, send an email to [phi@magneticpull.org](mailto:phi@magneticpull.org).
+If you want to get in touch, send me an email: admin@magneticpull.org
