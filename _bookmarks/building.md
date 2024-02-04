@@ -11,6 +11,7 @@ tags:
 
 ## Building
 
+* **2023.11** [Build a Binary by Anna Beltrami](https://www.youtube.com/watch?v=qBR6bcyeXrU)
 * **2021.02** [How Uber Deals with Large iOS App Size](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
 * **2020.02** ⭐️ Xcode Build Time Optimization - [part 1](https://www.onswiftwings.com/posts/build-time-optimization-part1/) and [part 2](https://www.onswiftwings.com/posts/build-time-optimization-part2/)
 * **2020.02** [Xcode: Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html)
@@ -25,6 +26,7 @@ tags:
 
 ## Continuous Integration
 
+* **2024.01** [A simple fastlane setup for solo indie developers](https://www.jessesquires.com/blog/2024/01/22/fastlane-for-indies/)
 * **2022.03** [Comparing release branch strategies](https://www.jessesquires.com/blog/2022/03/27/comparing-release-branch-strategies/)
 * **2019.03** [Keep using Fastlane with Apple's 2FA changes](https://drobinin.com/posts/keep-using-fastlane-with-apples-2fa-changes/)
 * **2018.04** [Build it, Test it, Deliver it! Complete iOS Guide on Continuous Delivery with fastlane and Jenkins](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5)

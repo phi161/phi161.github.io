@@ -9,9 +9,7 @@ tags:
   - electronics
 ---
 
-* [Car Electronics: All About Circuits](https://www.partsgeek.com/mmparts/car_electronics_all_about_circuits.html) (thanks Liam & Jack! 🙂)
-* [A Beginner’s Guide to Soldering Metal, Circuits, and More!](https://web.archive.org/web/20220702143550/https://alansfactoryoutlet.com/a-beginners-guide-to-soldering-metal-circuits-and-more/) (thanks Nicole! 🙂)
-* [All About Electronic Circuits for Kids](https://www.speedwaymotors.com/Info/All-About-Electronic-Circuits-for-Kids) (thanks Noah! 🙂)
+* [The Art of Electronics (2015)](https://artofelectronics.net/) (through [Hacker News](https://news.ycombinator.com/item?id=38748370))
 * [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/) (from [this](https://news.ycombinator.com/item?id=23562181) HN thread)
 * [A simple guide to electronic components](https://www.youtube.com/watch?v=6Maq5IyHSuc) (40' video)
 * [Tronix Arduino Tutorials](http://tronixstuff.com/tutorials/)

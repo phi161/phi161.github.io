@@ -11,6 +11,7 @@ tags:
 
 ## Books, Courses and Blogs
 
+* [Apple's Documentation Updates](https://developer.apple.com/documentation/Updates/): View major documentation updates from WWDC, jump to the latest release notes, and browse ongoing updates from a set of framework releases over time.
 * [Destroy All Software](https://www.destroyallsoftware.com/screencasts) has very good reviews on HN
 * [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
@@ -23,6 +24,7 @@ tags:
 
 ## Tips
 
+* **2023.06** ⭐️ [The Care and Feeding of Developer ID](https://developer.apple.com/forums/thread/732320) from Quinn “The Eskimo!”
 * **2022.04** [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport) when an older Xcode version doesn't support the device's iOS version
 * **2021.10** Here's [how to find the true definition](https://stackoverflow.com/a/70310210/289501) of the `task` modifier in SwiftUI - it's located deeply inside the Xcode.app folder!
 * **2021.03** [Getting to Know the Simulator Better](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/) Xcode 12 supports Push Notification triggering!
@@ -39,6 +41,7 @@ tags:
 
 ## Security
 
+* **2023.11** [Using on-demand resources for securely storing API keys in iOS apps](https://augmentedcode.io/2023/11/27/using-on-demand-resources-for-securely-storing-api-keys-in-ios-apps/)
 * **2020.04** [A security review of 1,300 AppStore applications](https://seredynski.com/articles/a-security-review-of-1300-appstore-applications.html)
 
 
@@ -97,6 +100,10 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 
 ## Conferences & Community
 
+* [Swift TO](https://www.swiftconf.to/)
+* [SwiftLeeds](https://www.youtube.com/watch?v=HHpQ2ufcKQk&list=PL-wmxEeX64YRN8dTs88K6jot_NKmemMLb)
+* [Swift Connection](https://swiftconnection.io/)
+  * [Videos](https://www.youtube.com/watch?v=4sHbfdBE6eI&list=PLZsRQnRG-mlI4T7gALW4_aK85dSTIooGd) from 2023
 * [Kodeco’s Big List of iOS Conferences for 2023](https://www.kodeco.com/38368229-ios-conferences-for-mobile-developers-in-2023)
 * [Mobile Native Foundation Discussions](https://github.com/MobileNativeFoundation/discussions/discussions) - can cover anything related to projects, technologies, and processes related to shipping large-scale mobile apps.
 * [Underdog Devs](https://www.underdogdevs.org/) is a group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background
