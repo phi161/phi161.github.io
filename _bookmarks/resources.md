@@ -9,19 +9,6 @@ tags:
   - recommendations
 ---
 
-## Books, Courses and Blogs
-
-* [Apple's Documentation Updates](https://developer.apple.com/documentation/Updates/): View major documentation updates from WWDC, jump to the latest release notes, and browse ongoing updates from a set of framework releases over time.
-* [Destroy All Software](https://www.destroyallsoftware.com/screencasts) has very good reviews on HN
-* [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
-* [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
-* [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
-* [RegexLearn](https://regexlearn.com/) an interactive tutorial
-* [iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift](https://www.oreilly.com/library/view/ios-and-macostm/9780133085501/)
-* [Discover the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/) _The content Tech Twitter is talking about, minus the noise. Ranked by machines, curated by humans, updated hourly._
-* [Google developer documentation style guide](https://developers.google.com/style/word-list) _includes references to terms that Google considers disrespectful or offensive_
-
-
 ## Tips
 
 * **2023.06** ⭐️ [The Care and Feeding of Developer ID](https://developer.apple.com/forums/thread/732320) from Quinn “The Eskimo!”
@@ -38,24 +25,10 @@ tags:
 * [One Weird Trick to Lose Size](https://blog.halide.cam/one-weird-trick-to-lose-size-c0a4013de331)
 * Printing the simulator's home directory: `po NSHomeDirectory()` (there's also `xcrun simctl get_app_container booted [app identifier]`, taken from [here](https://stackoverflow.com/questions/35963940/document-folder-ios-simulator))
 
-
 ## Security
 
 * **2023.11** [Using on-demand resources for securely storing API keys in iOS apps](https://augmentedcode.io/2023/11/27/using-on-demand-resources-for-securely-storing-api-keys-in-ios-apps/)
 * **2020.04** [A security review of 1,300 AppStore applications](https://seredynski.com/articles/a-security-review-of-1300-appstore-applications.html)
-
-
-## Notable Apps
-
-* [Adaptivity](https://hacknicity.com/adaptivity) is an app for developers and designers to visualise how iOS’s Size Classes and margins for layout, readable content and the safe area look on real devices and how they change with respect to orientation, iPad Slide Over/Split View and Dynamic Type size changes. There are also screens to explore System Colors and, on iOS/iPadOS 13 or macOS, System Images and System Materials.
-* [Breather](https://github.com/alexbaramilis/Building-Breather) 
-is an open-source iOS app that shows the weather, air pollution and asthma conditions around you.
-* [Spend Stack](https://www.spendstack.com/)
-* [immuni](https://www.immuni.italia.it/) is an app that helps us fight the COVID-19 epidemic. The app uses technology to alert the users who have had a risky exposure—even if they are asymptomatic.
-* [isowords](https://github.com/pointfreeco/isowords) is a large, complex application built entirely in Swift. The iOS client's logic is built in the Composable Architecture and the UI is built mostly in SwiftUI with a little bit in SceneKit.
-* [Undebit](https://www.nbelov.com/), a minimalistic and very fast expense tracking app
-* [eRezept App](https://github.com/gematik/E-Rezept-App-iOS) The App uses Apple's Combine.framework for operation scheduling. The UI-Layer is built with The Composable Architecture ♥️ and SwiftUI ♥️
-
 
 ## Team
 
@@ -77,26 +50,23 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * **2014.08** [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * **2012.08** [One on One](https://a16z.com/2012/08/30/one-on-one/)
 
+## Books, Courses and Blogs
 
-## Interviewing
-
-* **2021.01** [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
-* **2020.02** [iOS Developer interview questions 2020](https://ordinarycoding.com/articles/ios-developer-interview-questions-2020/)
-* **2019.07** [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
-* **2019.03** [iOS Interview Questions 🤯😖😒](https://abhimuralidharan.medium.com/ios-interview-questions-736e27a96a74)
-* [The Vital Guide to Swift Interviewing](https://www.toptal.com/swift#hiring-guide)
-* [A list of questions which may be interesting to a tech job applicant](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-* [Awesome Interview Questions - Swift](https://github.com/MaximAbramchuck/awesome-interview-questions#swift)
-* [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
-* [Best resources for Advanced iOS Developer (Swift)](https://medium.com/flawless-app-stories/best-resources-for-advanced-ios-developer-swift-ade30374593d)
-
+* [Apple's Documentation Updates](https://developer.apple.com/documentation/Updates/): View major documentation updates from WWDC, jump to the latest release notes, and browse ongoing updates from a set of framework releases over time.
+* [Destroy All Software](https://www.destroyallsoftware.com/screencasts) has very good reviews on HN
+* [Dan Grossman's Programming Languages](https://www.coursera.org/learn/programming-languages/home/welcome)
+* [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns) by Dave Hoover, Adewale Oshineye
+* [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/)
+* [RegexLearn](https://regexlearn.com/) an interactive tutorial
+* [iOS and macOS Performance Tuning: Cocoa, Cocoa Touch, Objective-C, and Swift](https://www.oreilly.com/library/view/ios-and-macostm/9780133085501/)
+* [Discover the best developer blogs on any tech stack](https://bloggingfordevs.com/trends/) _The content Tech Twitter is talking about, minus the noise. Ranked by machines, curated by humans, updated hourly._
+* [Google developer documentation style guide](https://developers.google.com/style/word-list) _includes references to terms that Google considers disrespectful or offensive_
 
 ## Podcasts
 
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.](https://github.com/vermont42/Podcasts)
-
 
 ## Conferences & Community
 
@@ -110,10 +80,3 @@ is an open-source iOS app that shows the weather, air pollution and asthma condi
 * [iOS Conf SG](https://www.youtube.com/c/iOSConfSG/videos)
 * [Swift Heroes](https://www.youtube.com/playlist?list=PLfCiO1zYKkAQ8jelBHLYqNd98dWoB7850)
 * [NSSpain](https://vimeo.com/showcase/7769418)
-
-
-## Lists
-
-* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) A collection of (mostly) technical things every software developer should know.
-* [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os/)
-* [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)
