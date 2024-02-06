@@ -1,0 +1,4 @@
+baseURL = 'https://www.magneticpull.org/'
+languageCode = 'en-us'
+title = 'My Test Hugo Site'
+theme = ["PaperMod"]
