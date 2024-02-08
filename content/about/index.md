@@ -1,5 +1,6 @@
 ---
 title: About
+url: "/about/"
 ShowShareButtons: false
 hideMeta: true
 ---

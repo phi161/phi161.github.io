@@ -1,5 +1,0 @@
----
-title: Hugo
----
-
-Hugo running
