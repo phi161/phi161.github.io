@@ -1,5 +1,7 @@
 ---
 title: About
+ShowShareButtons: false
+hideMeta: true
 ---
 
 My name is Fotis and I am a software engineer based in Athens, Greece.  
