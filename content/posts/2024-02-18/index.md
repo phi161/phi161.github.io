@@ -1,11 +1,12 @@
 ---
 title: Implicit Optional Initialization
+description: tip #1
 ShowShareButtons: false
 hideMeta: true
 tags: ["tips"]
 ---
 
-An optional var defaults to nil (`p1`), but not when it's type is `Optional` (like `p3`)
+An optional var defaults to nil (`p1`), but not when its type is `Optional` (like `p3`)
 
 ```swift
 struct Demo {
