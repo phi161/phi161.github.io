@@ -34,7 +34,7 @@ languages:
           url: about/
           weight: 1
         - name: Tips
-          url: https://www.magneticpull.org/tags/tips/
+          url: tags/tips/
           weight: 2
         # - name: Archive
         #   url: archives

@@ -1,5 +1,5 @@
 ---
-title: Development Assets
+title: "Tip #2: Development Assets"
 ShowShareButtons: false
 hideMeta: true
 tags: ["Tips", "Xcode"]

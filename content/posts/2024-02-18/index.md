@@ -1,5 +1,5 @@
 ---
-title: Implicit Optional Initialization
+title: "Tip #1: Implicit Optional Initialization"
 ShowShareButtons: false
 hideMeta: true
 tags: ["Tips", "Swift"]
