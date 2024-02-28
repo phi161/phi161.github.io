@@ -1,9 +1,8 @@
 ---
 title: Implicit Optional Initialization
-description: tip #1
 ShowShareButtons: false
 hideMeta: true
-tags: ["tips"]
+tags: ["Tips", "Swift"]
 ---
 
 An optional var defaults to nil (`p1`), but not when its type is `Optional` (like `p3`)
