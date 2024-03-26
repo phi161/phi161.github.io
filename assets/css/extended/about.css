@@ -1,0 +1,71 @@
+h2 {
+  font-size: xx-large;
+  margin-top: 36px;
+  margin-bottom: 18px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-wrapper {
+  display: flex;
+}
+
+.cv-item-header-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.cv-item-header1 {
+  font-size: x-large;
+}
+
+.cv-item-header2 {
+  font-weight: bold;
+}
+
+.cv-item-header3 {
+  font-size: medium;
+}
+
+.cv-item-description {
+  margin-top: 12px;
+  margin-bottom: 6px;
+}
+
+.cv-app a, .cv-item-description a {
+  text-decoration: underline;
+}
+
+.cv-app a:hover, .cv-item-description a:hover {
+  text-decoration: none;
+}
+
+img {
+  width: 92px;
+  height: 92px;
+  object-fit: cover; /* Ensure the image maintains its aspect ratio */
+  border-radius: 22%;
+}
+
+.image-container {
+  margin-right: 12px;
+}
+
+ul.cv {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li.cv {
+  list-style-type: none;
+  margin-bottom: 32px;
+  padding: 0px;
+}
+
+li.cv-app {
+  list-style-position: inside;
+}

@@ -1,0 +1,107 @@
+{
+  "work": [
+    {
+      "name": "[Six to Start](https://www.sixtostart.com/)",
+      "date": "November 2020 - November 2023",
+      "location": "Remote",
+      "icon": "images/logo-sts.jpg",
+      "description": "Refactored the whole _Zombies Run_ app using [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture/), SwiftUI and Swift Concurrency. Modularised the project with SPM and created preview apps for ease of development and testing. Reimplemented in-app purchases using StoreKit 2 and provided Combine-based wrappers for other layers (Core Location, data access, Network Path Monitor etc). Before that, refactored the Home Screen to use _modern_ collection views (diffable data sources and compositional layout), helped transition to RxSwift and RxCocoa, improved overall accessibility (voice over, dynamic fonts) and prepared the app for localisation.",
+      "apps": [
+        {
+          "link": "[ZRX: Zombies Run + Marvel Move](https://apple.co/484eSot)"
+        },
+        {
+          "link": "[Zombies, Run! 5k Training](https://apple.co/484eSot)"
+        },
+        {
+          "link": "[The Walk: Fitness Tracker Game](https://apple.co/484eSot)"
+        }
+      ]
+    },
+    {
+      "name": "[ZuluTrade](https://www.zulutrade.com/)",
+      "date": "March 2017 - October 2020",
+      "location": "Athens, Greece",
+      "icon": "images/logo-zt.jpg",
+      "description": "Introduced a reactive and unidirectional architecture using RxSwift and [ReactorKit](https://github.com/ReactorKit/ReactorKit). Refactored the networking layer providing reactive extensions ([Moya](https://github.com/Moya/Moya) and [Starscream](https://github.com/daltoniam/Starscream)) and gathered business logic to a dedicated layer. Improved the infrastructure for creating 'white labels' and organised external and internal dependencies with CocoaPods. Set up CI (Jenkins and Fastlane) automating internal builds for multiple environments and targets. Implemented large features (push notifications, dashboard, profile comments and status updates, follow). Communication with Product Owners, QA and Designers, as well as empowering the team and mentoring.",
+      "apps": [
+        {
+          "link": "[ZuluTrade for Social Trading](https://apple.co/3ve2aVC)"
+        },
+        {
+          "link": "[AAAFx](https://apple.co/4acQVMo)"
+        }
+      ]
+    },
+    {
+      "name": "[Magnetic Pull](https://www.magneticpull.org/)",
+      "date": "August 2015 - March 2017",
+      "location": "Athens, Greece",
+      "icon": "images/logo-mp.png",
+      "description": "Built a few apps from the ground up (Cook Planner, The Region of Attica) and helped with maintenance, bug fixing and new features for others (Cosmote What's Up, Home Run). Responsible for enrolling to the Developer Program as well as TestFlight and App Store distribution.",
+      "apps": [
+        {
+          "link": "[Cosmote What's Up](https://apple.co/3TQxQKa)"
+        },
+        {
+          "link": "[HomeRun / Convibo](https://homerun.delivery/)"
+        }
+      ]
+    },
+    {
+      "name": "[EF Labs](https://www.ef.com/)",
+      "date": "December 2013 - May 2015",
+      "location": "Shanghai, China",
+      "icon": "images/logo-ef.jpg",
+      "description": "Involved in the project from early prototyping to main development and distribution. Clarified specifications and helped define backend APIs. Contributed in shaping the team culture, collaboration with the Android lead and mentoring. Set up CI for QA builds and maintained App Store releases. Participated in Usability Testing sessions and provided feedback to the User Experience lead.",
+      "apps": [
+        {
+          "link": "[EF English Live](https://apple.co/3TuKT2u)"
+        }
+      ]
+    },
+    {
+      "name": "[Daresy](https://daresay.co/)",
+      "date": "March 2010 - August 2013",
+      "location": "Stockholm, Sweden",
+      "icon": "images/logo-daresay.jpg",
+      "description": "Worked on a number of internal apps (Reseräkning, Edströmska, Efterlysta, All Access, iJust) as well as a consultant for external clients (Försäkringskassan, Ericsson, Assa Abloy, NRJ Radio, Widespace). Responsible for the Interaction Design and full development lifecycle of most projects.",
+      "apps": [
+        {
+          "link": "[Försäkringskassan](https://apple.co/4awzN3T)"
+        },
+        {
+          "link": "[ASSA ABLOY Mobile Access](https://apple.co/4a7AmBd)"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "title": "MSc Interactive Systems Engineering",
+      "date": "August 2007 - September 2009",
+      "thesis": "**Thesis:** Persuasive Design for Environmental Sustainability; An attempt to promote behavioral changes by applying Interaction Design methodology and principles.",
+      "internship": "**Internship:** The Interactive Institute (Stockholm, Sweden), June 2009 - February 2010. Research, prototyping and development of the Interactive Institute’s project “Reclaim your Data”."
+    },
+    {
+      "institution": "Technological Educational Institute of Thessaloniki",
+      "title": "BSc Computer Science",
+      "date": "September 2000 - May 2005",
+      "thesis": "**Thesis:** Open Source Software – a case study: Building a library for importing 3D files to Processing.",
+      "internship": "**Internship:** Tessera Multimedia (Thessaloniki, Greece), June 2004 – January 2005. Development of games in Adobe Flash & Director."
+    }
+  ],
+  "publications": [
+    {
+      "authors": "Triantafyllidis Panagiotis (MA, BSc), Stergiou Fotios (MSc, BSc)",
+      "title": "A screen-less approach for visual Augmented Reality through dynamic image projection",
+      "publication": "May 2019, 13th Audiovisual Arts Festival (DCAC), Book of Abstracts, p. 40-41"
+    },
+    {
+      "authors": "Triantafyllidis Panagiotis (MA, BSc), Stergiou Fotios (MSc, BSc)",
+      "title": "Examining the use of Augmented Reality and Computer Vision Technologies in Digital Artworks, the case of: “PoNR/Anomie”",
+      "publication": "June 2018, 12th Audiovisual Arts Festival (DCAC), Book of Abstracts, p. 61-64"
+    }
+  ]
+}

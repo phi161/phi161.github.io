@@ -1,0 +1,17 @@
+<ul class="cv">
+  {{ range .education }}
+  <li class="cv">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="cv-item-header-container">
+          <div class="cv-item-header1">{{ .institution | markdownify }}</div>
+          <div class="cv-item-header2">{{ .title }}</div>
+          <div class="cv-item-header3">{{ .date }}</div>
+        </div>
+      </div>
+      <div class="cv-item-description">{{ .thesis | markdownify }}</div>
+      <div class="cv-item-description">{{ .internship | markdownify }}</div>
+    </div>
+  </li>
+  {{ end }}
+</ul>

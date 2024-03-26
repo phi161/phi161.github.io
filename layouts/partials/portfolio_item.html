@@ -1,0 +1,30 @@
+<ul class="cv">
+  {{ range .work }}
+  <li class="cv">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="image-container">
+          <img src={{ .icon }}>
+        </div>
+        <div class="cv-item-header-container">
+          <div class="cv-item-header1">{{ .name | markdownify }}</div>
+          <div class="cv-item-header2">{{ .location | markdownify }}</div>
+          <div class="cv-item-header3">{{ .date }}</div>
+        </div>
+      </div>
+      <div class="cv-item-description">{{ .description | markdownify }}</div>
+
+      <div>App Store links:</div>
+      <ul>
+      {{ range .apps }}
+        <li class="cv-app">
+        {{ .link | markdownify }}
+        </li>
+      {{ end }}
+      </ul>
+
+
+    </div>
+  </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,15 @@
+<ul class="cv">
+  {{ range .publications }}
+  <li class="cv">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="cv-item-header-container">
+          <div class="cv-item-header2">{{ .title }}</div>
+          <div>{{ .authors | markdownify }}</div>
+          <div class="cv-item-header3">{{ .publication }}</div>
+        </div>
+      </div>
+    </div>
+  </li>
+  {{ end }}
+</ul>
