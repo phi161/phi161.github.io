@@ -103,5 +103,29 @@
       "title": "Examining the use of Augmented Reality and Computer Vision Technologies in Digital Artworks, the case of: “PoNR/Anomie”",
       "publication": "June 2018, 12th Audiovisual Arts Festival (DCAC), Book of Abstracts, p. 61-64"
     }
+  ],
+  "projects": [
+    {
+      "title": "PoNR / Anomie",
+      "date": "May 2018 (Plastik)",
+      "description": "Participation in the list of curated works for [Athens Digital Arts Festival (ADAF18)](https://2018.adaf.gr/events/ponr-anomie/) as member of the group “Plastik”. Implemented a key part of the piece, an iPad application developed in Unity3D, using Vuforia for the AR functionality. A Raspberry Pi and OpenCV were used to capture an image of the viewer's face, which would be sent wirelessly to the app, becoming part of the augmented content seen through the iPad.",
+      "video": "{{< vimeo 927611963 >}}"
+    },
+    {
+      "title": "Shutter Cam - Personalised Live Filters",
+      "date": "2012 - 2016 (Carmine Studios)",
+      "description": "[Shutter](https://apple.co/498suhy) is an iOS app that allows users to combine image filters and either apply them while taking a picture or use them to edit existing photos. The result is previewed in real time and it is possible to create, edit and save custom sets of creative filters ('lenses') for later use. The app is written in Objective-C and uses Core Data and GPUImage."
+    },
+    {
+      "title": "CocoaHeads Shanghai",
+      "date": "2013 - 2015",
+      "description": "Started [Shanghai’s CocoaHeads chapter](http://cocoaheads.org/cn/Shanghai/). Gave several presentations and took care of organizing the monthly event."
+    },
+    {
+      "title": "Hybrid Surface",
+      "date": "2009 (university team project)",
+      "description": "Explored interaction techniques for an experimental user interface, combining touch input and tracking of tangible objects. Made in [Processing](https://processing.org/).",
+      "video": "{{< vimeo 927613159 >}}"
+   }
   ]
 }

@@ -59,6 +59,13 @@
     {{ end }}
   </div>
 
+  <h2>Other Projects</h2>
+  <div>
+    {{ range $.Site.Data.cv }}
+      {{ partial "project_item.html" . }}
+    {{ end }}
+  </div>
+
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

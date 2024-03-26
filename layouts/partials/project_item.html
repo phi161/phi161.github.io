@@ -1,0 +1,18 @@
+<ul class="cv">
+  {{ range .projects }}
+  <li class="cv">
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="cv-item-header-container">
+          <div class="cv-item-header1">{{ .title }}</div>
+          <div class="cv-item-header3">{{ .date }}</div>
+        </div>
+      </div>
+      <div class="cv-item-description">{{ .description | markdownify }}</div>
+      {{- if .video }}
+      <div class="cv-item-description">{{ .video | markdownify }}</div>
+      {{- end }}
+    </div>
+  </li>
+  {{ end }}
+</ul>
